@@ -76,3 +76,104 @@ The CFAA of 1986 expanded upon the CCCA of 1984 by increasing the damage thresho
   <summary>Show answer</summary>
 The CFAA Amendments of 1994 prohibited the creation of malicious code, expanded jurisdiction to any computer involved in interstate commerce, allowed imprisonment regardless of intent, and granted victims the right to pursue civil remedies.
 </details>
+
+---
+
+## 1.4.2 Licensing and Intellectual Property requirements ##
+
+Intellectual property (IP) encompasses intangible assets like company names, creative works, and proprietary formulas or techniques. Laws exist to protect the rights of IP owners, ensuring fairness and preventing unauthorized use or reproduction of their creations.
+
+:bulb: With the advancement of AI, intellectual property is evolving rapidly. Be prepared to encounter related questions in your exams and address it in your cybersecurity career.
+
+:link: Take some time to give a look at: https://www.copyright.gov/
+
+The Digital Millennium Copyright Act (DMCA) is a comprehensive United States copyright law enacted in 1998 to address copyright issues arising from the rapid growth of the internet and digital technologies. It criminalizes the production and dissemination of technology, devices, or services intended to circumvent measures that control access to copyrighted works, as well as the act of circumventing such measures. Additionally, the DMCA provides safe harbors from liability for internet service providers and online platforms that host user-generated content, as long as they comply with certain requirements, including implementing a notice-and-takedown procedure for addressing copyright infringement claims.
+
+The following table will show what, how and and how trade secrets, patents, copyrights, and trademarks protect:
+
+| **Symbol**     | **Name**        | **Duration**                                                                                                     | **Applies To**                                                                                                          | **Notes**                                                                                                                                                                                                                  | **Attacks**                                                                                                           |
+|----------------|------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| ©              | Copyright         | Life of the author + 70 years<br>Work for hire: 95 years from publication or 120 years from creation (whichever is shorter) | Literary, musical, dramatic, pictorial, sculptural, motion pictures, sound recordings, architectural works              | Protects original works from unauthorized duplication<br>Automatically applies upon creation<br>Ownership defaults to creator unless it's work-for-hire (i.e., created as part of employment)                               | **Piracy** – Unauthorized copying or use of the material                                                             |
+| ™ (unregistered)<br>® (registered) | Trademark         | 10 years (renewable indefinitely)                                                                                  | Words, slogans, logos                                                                                                    | Must not be similar to existing marks<br>Must not be merely descriptive<br>Registration provides legal standing<br>Can be renewed indefinitely                                                                             | **Counterfeiting** – Fake products posing as real brand<br>**Dilution** – Generic use of brand names (e.g., "Xerox") |
+| *(none)*        | Patent            | 20 years                                                                                                          | Processes, machines, manufactured items                                                                                  | Must be new, useful, and non-obvious<br>Provides exclusive rights to the invention for a limited period<br>Requires formal application and approval                                                                         | **Infringement** – Unauthorized use, even unintentionally                                                           |
+| *(none)*        | Trade Secret      | Indefinite (as long as it is kept secret and protected via NDA/NCA)                                               | Confidential business info (e.g., formulas, recipes, processes)                                                          | No formal registration required<br>Used to protect information you never want disclosed (e.g., Coca-Cola recipe)<br>Enforced through contracts (NDAs/NCAs)<br>Best for software and proprietary methods                       | **Espionage** – Theft of confidential information for competitive advantage                                         |
+
+:brain: A patent is the strongest form of Intellectual Property Protection.
+
+Security professionals should possess knowledge of the legal aspects concerning software licensing agreements. There are four prevalent types of license agreements in use today:
+- Contractual license agreements involve a written contract delineating responsibilities between the software vendor and customer, commonly utilized for expensive or specialized software packages.
+- Shrink-wrap license agreements are displayed on the exterior of software packaging and typically include a clause implying agreement upon breaking the shrink-wrap seal.
+- Click-through (or browser wrap) license agreements, increasingly common, present contract terms either on the software box or within documentation, requiring users to actively acknowledge agreement during installation.
+- Cloud services license agreements extend click-through agreements, often omitting written agreements and displaying legal terms on-screen for users to review, typically leading to users quickly clicking through without thorough examination.
+
+| **License Type**         | **Description**                                                                                                                                                       | **Common Use**                                   |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Contractual License**  | A written contract outlining responsibilities between vendor and customer.                                                                                            | Expensive or specialized software packages       |
+| **Shrink-Wrap License**  | Terms printed on the software packaging; agreement is implied by breaking the shrink-wrap seal.                                                                       | Packaged, boxed software                         |
+| **Click-Through License**<br>(a.k.a. Browser Wrap) | Terms are shown on-screen or in documentation; user must click “I agree” during installation.                                                                    | Widely used in downloadable/installable software |
+| **Cloud Services License** | Extends click-through model; terms are shown on-screen during use or setup, often without a separate written contract. Users often skip reading.                     | SaaS and cloud-based services                    |
+
+:brain: Remember the 4 types of license agreement: Contract, Shrink-wrap, click-through, cloud services.
+
+:bulb: In a written contract, the customer typically has the opportunity to actively participate in the creation of the contract by negotiating its terms and signing the final document. However, in shrink-wrap and click-through agreements, the customer's role is limited to accepting the terms of the contract as presented by the seller or service provider. These agreements are often presented in a pre-packaged format, such as when purchasing software online (shrink-wrap) or agreeing to terms and conditions before accessing a website or app (click-through). In these cases, the customer's only option is to either accept the contract as is or decline the offer.
+
+### Open Questions ###
+1. What is the significance of the Digital Millennium Copyright Act (DMCA) in the context of intellectual property protection in the digital age?
+<details>
+  <summary>Show answer</summary>
+The DMCA, enacted in 1998, criminalizes the production and distribution of technologies designed to circumvent copyright protection measures. It also establishes safe harbor provisions for online platforms that host user-generated content if they comply with specific requirements, including a notice-and-takedown system for copyright infringement claims.
+</details>
+
+2. Differentiate between trademarks and copyrights in terms of what they protect and their duration.
+<details>
+  <summary>Show answer</summary>
+Trademarks protect distinctive marks, symbols, or slogans used to identify and differentiate goods or services in the marketplace, offering protection for 10 years, renewable indefinitely. Copyrights protect original creative works, granting authors exclusive rights for their lifetime plus 70 years, and vary in duration for works made for hire
+</details>
+
+3. Briefly describe the three main requirements for an invention to be eligible for patent protection.
+<details>
+  <summary>Show answer</summary>
+To be eligible for patent protection, an invention must meet three criteria: novelty (it must be new), utility (it must have a practical purpose), and non-obviousness (it must not be readily apparent to someone skilled in the relevant field).
+</details>
+
+4. Why are trade secrets considered a valuable form of intellectual property protection, and what measures can be taken to safeguard them?
+<details>
+  <summary>Show answer</summary>
+Trade secrets offer indefinite protection for confidential information that provides a competitive edge, such as formulas, processes, or customer lists. Safeguarding measures include non-disclosure agreements (NDAs) and non-compete agreements (NCAs) to restrict access and prevent unauthorized disclosure or use.
+</details>
+
+5. Explain the concept of "works for hire" in copyright law and how ownership is determined in such cases.
+<details>
+  <summary>Show answer</summary>
+"Works for hire" refer to creations made by employees within the scope of their employment or commissioned works under contract. In these cases, the employer or commissioning party holds the copyright ownership rather than the individual creator.
+
+
+6. What distinguishes a contractual license agreement from a shrink-wrap license agreement in software licensing?
+<details>
+  <summary>Show answer</summary>
+Contractual license agreements involve a written contract negotiated between the software vendor and customer, outlining specific terms and conditions for software use. In contrast, shrink-wrap license agreements are typically pre-printed terms and conditions found on the exterior of software packaging, where opening the package implies acceptance of the terms.
+
+
+7. How do click-through license agreements function, and what are some potential concerns associated with them?
+<details>
+  <summary>Show answer</summary>
+Click-through agreements, commonly used for software downloads and online services, present terms and conditions on-screen, requiring users to actively click "I agree" or a similar button to proceed. Concerns arise as users often click through without thoroughly reading the terms, potentially agreeing to unfavorable conditions.
+
+8. Provide an example of trademark counterfeiting and explain how it harms the original brand.
+<details>
+  <summary>Show answer</summary>
+Counterfeiting occurs when products are intentionally designed to deceive consumers into believing they are purchasing genuine branded goods. For instance, producing fake luxury handbags bearing a renowned designer's logo constitutes trademark counterfeiting, harming the brand's reputation and profits.
+</details>
+
+9. What is the primary risk associated with patent infringement, and what are the potential consequences for infringers?
+<details>
+  <summary>Show answer</summary>
+Patent infringement occurs when an individual or entity uses, sells, or manufactures a patented invention without the patent holder's authorization. The primary risk is facing legal action from the patent holder, potentially leading to injunctions, substantial financial damages, and legal fees.
+</details>
+
+10. Explain the concept of "fair use" in copyright law and provide an example of its application.
+<details>
+  <summary>Show answer</summary>
+"Fair use" is a legal doctrine in copyright law that permits the limited use of copyrighted material without the copyright holder's permission for purposes such as criticism, commentary, news reporting, teaching, scholarship, or research. An example is using brief excerpts from a copyrighted book in a scholarly article for analysis or critique.
+</details>
+
