@@ -1,1 +1,36 @@
+## 1.4.1 Cybercrimes and data breaches ##
+
+:necktie: As a security professional, you are anticipated to communicate effectively with C-level executives, operational personnel, and external stakeholders such as lawyers. However, it is equally important to recognize your limitations and know when to seek legal advice when necessary.
+
+Every organization should be addressing essential inquiries such as:
+- What measures are in place to safeguard our information and assets?
+- What are the information security challenges specific to our organization within a global framework?
+- What is the current state of the threat landscape?
+
+This scrutiny is crucial due to the lucrative nature of cybercrime, which often leads organizations to refrain from acknowledging victimization or pursuing cybercriminals.
+While it's impossible to thwart every attack, implementing effective security measures can deter cyber intrusions by rendering them:
+- Unprofitable
+- Labor-intensive
+- Cost-prohibitive
+
+In essence, organizations must not present themselves as easy targets for cyber threats.
+
+:necktie: You may never achieve complete invulnerability for your company, but it's essential to find the appropriate compromise to ensure your company is adequately protected.
+
+Criminals may target computers directly or exploit them to facilitate traditional criminal activities. Whether driven by profit or notoriety, malicious actors can leverage readily available tools, requiring minimal technical expertise to inflict significant damage on the digital landscape. Moreover, with nation-state actors continuously enhancing their capabilities to target information and infrastructure, today's information security professionals face an increasingly challenging task in safeguarding their environments from compromise.
+
+The laws highlighted in the following table pertain to federal regulations in the United States. It's important to note that nearly every state in the country has implemented legislation addressing computer security matters. Due to the internet's worldwide influence, many computer-related crimes transcend state boundaries, thus falling within federal jurisdiction and undergoing prosecution in federal courts. Nonetheless, certain situations may see state laws imposing more stringent regulations and penalties compared to federal laws.
+
+| **Federal Law** | **Year** | **Description** |
+|------------------|---------|------------------|
+| **Computer Crime and Abuse Act (CCCA)** | 1984 | Outlined prohibited actions including:<br>- Unauthorized access to classified or financial federal systems<br>- Accessing federally used computers without authorization<br>- Perpetrating fraud using federal computers<br>- Causing over $1,000 damage to federal systems<br>- Altering medical records impacting care<br>- Trafficking computer passwords tied to interstate commerce or federal systems |
+| **Computer Fraud and Abuse Act (CFAA)** | 1986 | Extended the CCCA by increasing the damage threshold to $5,000 and expanding scope to all "federal interest" computers, including:<br>- Any computer used by the U.S. government or financial institutions<br>- Offenses obstructing those systems<br>- Cases involving multiple computers, even across state lines |
+| **CFAA Amendments** *(Computer Abuse Amendments Act)* | 1994 | Added provisions to:<br>- Prohibit malicious code creation<br>- Expand jurisdiction to interstate commerce systems<br>- Allow imprisonment regardless of intent<br>- Enable civil remedies for victims (injunctions, compensation) |
+| **National Information Infrastructure Protection Act** | 1996 | Expanded the CFAA to:<br>- Cover international commerce systems<br>- Protect critical infrastructure (railroads, pipelines, grids, telecom)<br>- Classify intentional/reckless damage to national infrastructure as felonies |
+| **Federal Information Security Management Act (FISMA)** | 2002 | Mandated NIST to define security standards. Key components:<br>- Periodic risk assessments<br>- Security policy development<br>- Security training and testing<br>- Incident response processes<br>- Continuity planning for information systems |
+| **Federal Cybersecurity Laws** *(FISMA Modernization, Cybersecurity Enhancement Act, National Cybersecurity Protection Act)* | 2014 | Modernized federal cybersecurity with:<br>- DHS taking primary responsibility (except DoD and intelligence)<br>- NIST tasked with voluntary cybersecurity standards (SP 800 series)<br>- Creation of the National Cybersecurity and Communications Integration Center (DHS) for coordination of cybersecurity risks and incidents |
+
+:brain: Scope and fines of the cybercrimes law in the table above are commisurated to the year in which they have been released.
+
+:link: According to GDPR, ‘personal data breach’ means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed. https://gdpr-info.eu/art-4-gdpr/
 
