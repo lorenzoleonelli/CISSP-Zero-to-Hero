@@ -34,3 +34,45 @@ The laws highlighted in the following table pertain to federal regulations in th
 
 :link: According to GDPR, ‘personal data breach’ means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed. https://gdpr-info.eu/art-4-gdpr/
 
+### Open Questions ###
+1. How can organizations make themselves less attractive targets for cybercriminals, even if complete invulnerability is unattainable?
+<details>
+  <summary>Show answer</summary>
+Organizations can deter cyber intrusions by implementing security measures that make attacks unprofitable, labor-intensive, and cost-prohibitive. This involves layering security controls, establishing robust incident response plans, and fostering a culture of security awareness.
+</details>
+
+2. Why is understanding federal jurisdiction important in the context of computer-related crimes?
+<details>
+  <summary>Show answer</summary>
+Understanding federal jurisdiction is crucial because many computer-related crimes cross state lines due to the internet's global reach. Federal laws like the CFAA provide a framework for prosecuting these offenses in federal courts, ensuring consistent enforcement and addressing the complexities of cybercrime.
+</details>
+
+3. Explain the key expansions introduced by the National Information Infrastructure Protection Act of 1996.
+<details>
+  <summary>Show answer</summary>
+The National Information Infrastructure Protection Act of 1996 expanded the CFAA's scope to include computer systems used in international commerce, extended protections to critical infrastructure beyond computing systems, and classified intentional or reckless damage to such infrastructure as felonies.
+</details>
+
+4. What are the primary responsibilities outlined for NIST under the Federal Information Security Management Act (FISMA) of 2002?
+<details>
+  <summary>Show answer</summary>
+Under FISMA, NIST is responsible for developing guidelines for implementing information security programs, including conducting risk assessments, establishing policies and procedures, providing security awareness training, and ensuring the continuity of operations for organizational information systems.
+</details>
+
+5. What were the primary objectives of the cybersecurity legislation signed by President Barack Obama in 2014?
+<details>
+  <summary>Show answer</summary>
+The 2014 cybersecurity legislation aimed to modernize federal cybersecurity efforts by centralizing responsibility under the Department of Homeland Security, tasking NIST with coordinating voluntary cybersecurity standards, and establishing a national center for cybersecurity collaboration between government agencies and civilian organizations.
+</details>
+
+6. How does the Computer Fraud and Abuse Act (CFAA) of 1986 differ from the Computer Crime and Abuse Act (CCCA) of 1984?
+<details>
+  <summary>Show answer</summary>
+The CFAA of 1986 expanded upon the CCCA of 1984 by increasing the damage threshold from $1,000 to $5,000 and broadening the scope from federal computers processing sensitive data to all "federal interest" computers, including those used by financial institutions and systems involved in interstate commerce.
+</details>
+
+7. What significant changes were introduced by the CFAA Amendments of 1994?
+<details>
+  <summary>Show answer</summary>
+The CFAA Amendments of 1994 prohibited the creation of malicious code, expanded jurisdiction to any computer involved in interstate commerce, allowed imprisonment regardless of intent, and granted victims the right to pursue civil remedies.
+</details>
