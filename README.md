@@ -1,8 +1,11 @@
 # CISSP-Zero-to-Hero
 CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview.
 
-![Static Badge](https://img.shields.io/badge/15k%20Linkedin%20Followers-%23009688)
-![GitHub followers](https://img.shields.io/github/followers/lorenzoleonelli)
+
+[![Visit_InfoSec Vault](https://img.shields.io/badge/Visit-InfoSecVault-009688?style=for-the-badge)](https://www.theinfosecvault.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoleonelli/)
+
+
 
 
 ## Symbols Used
