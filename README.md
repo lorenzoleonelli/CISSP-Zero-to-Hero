@@ -1,5 +1,9 @@
 # CISSP-Zero-to-Hero
-CISSP mastery, one domain at a time. Practical guidance for professionals aiming to level up in cybersecurity.
+CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview.
+
+![Static Badge](https://img.shields.io/badge/15k%20Linkedin%20Followers-%23009688)
+![GitHub followers](https://img.shields.io/github/followers/lorenzoleonelli)
+
 
 ## Symbols Used
 :brain: The CISSP exam isn’t about rote memorization, but it’s essential to have a clear and solid understanding of this concept before taking the test.
