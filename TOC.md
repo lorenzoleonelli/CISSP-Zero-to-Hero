@@ -4,7 +4,7 @@
 - [Readme](README.md]
 
 - **DOMAIN1: Security and Risk Management**
-  - [Understand, adhere to, and promote professional ethics]((../DOMAIN1/Understand, adhere to, and promote professional ethics.md)
+  - [Understand, adhere to, and promote professional ethics]((../DOMAIN1:Security and Risk Management/1.0.1 Understand, adhere to, and promote professional ethics.md)
 
 -----
 - [Introduction](#introduction)
