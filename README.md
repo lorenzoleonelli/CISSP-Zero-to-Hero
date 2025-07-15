@@ -15,13 +15,13 @@ CISSP mastery, one domain at a time. Not only theory but also practical guidance
 
 ### Paragraphs naming convention
 
-**1.X or 1.1.X Standard paragraph** containing theory and open questions (and answers)
+**1.X or 1.1.X - Standard paragraph** containing theory and open questions (and answers)
 
-**1.L.X Laboratory**: practical activities
+**1.L.X - Laboratory**: practical activities
 
-**1.D.X** Document**: document templates and/or chapter details
+**1.D.X - Document**: document templates and/or chapter details
 
-**1.Q.X Questions**: (and Answers and Explanations)
+**1.Q.X - Questions**: (and Answers and Explanations)
 
 **DICTIONARY**: terms used in the chapter
 
