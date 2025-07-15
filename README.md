@@ -2,7 +2,7 @@
 CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview.
 
 [![Visit_InfoSec Vault](https://img.shields.io/badge/Visit-InfoSecVault-009688?style=for-the-badge)](https://www.theinfosecvault.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoleonelli/)
+[![My LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoleonelli/)
 
 ## Symbols Used
 :brain: The CISSP exam isn’t about rote memorization, but it’s essential to have a clear and solid understanding of this concept before taking the test.
