@@ -62,6 +62,9 @@
   - 1.L.5 DREAD Threat Modeling - xls
   - 1.L.6 STRIDE threat Model of a SaaS App
   - [1.Q.1 Easy Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.Q.1%20Easy%20Questions.md#easy-questions)
+  - [1.Q.2 Hard Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.Q.2%20Hard%20Questions.md#hard-questions)
+  - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/DICTIONARY.md#dictionary)
+  - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/FLASHCARDS.md#flashcards)
     
 
 
