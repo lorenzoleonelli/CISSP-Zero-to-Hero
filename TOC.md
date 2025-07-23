@@ -59,8 +59,8 @@
   - [1.L.1 Github as a learning tool](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.L.1%20Github%20as%20a%20learning%20tool.md#github-as-a-learning-tool)
   - [1.L.2 Locking Down RDP: Expert-Level Setup, Ports, Authentication & Monitoring](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.L.2%20Locking%20Down%20RDP%3A%20Expert-Level%20Setup%2C%20Ports%2C%20Authentication%20%26%20Monitoring.md#locking-down-rdp-expert-level-setup-ports-authentication--monitoring)
   - [1.L-3 Risk Matrix and Risk Register](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.L.3%20Risk%20Matrix%20and%20Risk%20Register.md#risk-matrix-and-risk-register)
-  - 1.L.5 DREAD Threat Modeling - xls
-  - 1.L.6 STRIDE threat Model of a SaaS App
+  - [1.L.5 DREAD Threat Modeling - xls file](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/raw/refs/heads/main/DOMAIN1:%20Security%20and%20Risk%20Management/1.L.5%20DREAD%20Threat%20Modeling.xlsx)
+  - [1.L.6 STRIDE threat Model of a SaaS App - xls file](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/raw/refs/heads/main/DOMAIN1:%20Security%20and%20Risk%20Management/1.L.5%20DREAD%20Threat%20Modeling.xlsx)
   - [1.Q.1 Easy Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.Q.1%20Easy%20Questions.md#easy-questions)
   - [1.Q.2 Hard Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.Q.2%20Hard%20Questions.md#hard-questions)
   - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/DICTIONARY.md#dictionary)
