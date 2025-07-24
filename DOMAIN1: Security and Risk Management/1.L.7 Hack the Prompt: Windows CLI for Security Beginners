@@ -1,1 +1,22 @@
+## Hack the Prompt: Windows CLI for Security Beginners ##
+
+Think the Windows command line is just a boring black box? Think again.
+In this bite-sized course, we’ll turn that blinking cursor into your cybersecurity sidekick.
+
+No fluff. Just commands, real examples, and why they matter. From ipconfig to netsh, from mkdir to taskkill — you’ll get hands-on with the tools pros use to peek under the hood, troubleshoot networks, automate tasks, and look cool while doing it 😎.
+
+Let’s dive in, line by line.
+
+### Intro & Aesthetics – Your First CLI Superpowers ###
+
+| Command          | What it Does 🧠                                                                                                             | Example 💡                                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `help`           | Lists commands and brief descriptions. You can also type `help <command>` to get help on a specific one.                    | `help` <br> `help dir` <br> `help copy`                                                                                  |
+| `start`          | Opens programs, files, folders, or even websites in a new window.                                                           | `start notepad` <br> `start https://cybersecurity.com` <br> `start .` (opens current folder)                             |
+| `exit`           | Closes your current CMD session.                                                                                            | `exit` <br> *Try it after running a script or batch file.* <br> *(No options – it just works!)*                          |
+| `Autocompletion` | Hit `Tab` while typing a command, filename, or folder path to auto-complete. Press multiple times to cycle through options. | Type `notep` + `Tab` → `notepad` <br> Type `cd D` + `Tab` → `cd Downloads` <br> Type `ping l` + `Tab` → `ping localhost` |
+| `cls`            | Clears the screen. Doesn’t delete history, just wipes the clutter.                                                          | `cls` <br> *Try it after running lots of commands.* <br> *No parameters – it’s simple.*                                  |
+| `color`          | Changes text/background color of the console window using hex codes (0–F).                                                  | `color 0A` (green text on black) <br> `color 1E` (yellow on blue) <br> `color` (resets to default)                       |
+| `prompt`         | Customizes the prompt text you see before each command. Can include variables like path or date.                            | `prompt Hello: $G` <br> `prompt $P$G` (default: current path + `>`) <br> `prompt $D $T $G` (date, time, `>`)             |
+
 
