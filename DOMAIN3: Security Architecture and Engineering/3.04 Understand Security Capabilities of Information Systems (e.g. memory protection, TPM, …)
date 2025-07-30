@@ -1,0 +1,51 @@
+## Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …) ##
+
+Memory protection is a critical security feature in modern computer systems that prevents one process from accessing another process's memory without authorization. This ensures system stability, prevents malicious attacks, and protects sensitive data from unauthorized access or corruption.
+
+Without memory protection, a compromised or poorly written program could access or modify data belonging to other applications or even the operating system, leading to crashes, data leaks, or system-wide failures. Attackers could exploit such weaknesses to execute malicious code, steal sensitive information, or escalate privileges.
+
+Key Memory Protection Mechanisms are:
+
+- **Segmentation:** Divides memory into separate sections (segments) for different processes. Each segment has defined access permissions (e.g., read, write, execute).
+- **Paging:** Breaks memory into fixed-size blocks (pages). The operating system manages which pages are loaded into RAM and controls access using a page table.
+- **Virtual Memory:** Allows applications to use more memory than is physically available by temporarily storing unused data on disk. This prevents processes from interfering with each other’s data.
+- **Memory Address Space Isolation:** Ensures that each process has its own independent address space, preventing unauthorized access.
+- **Data Execution Prevention (DEP):** Prevents execution of code in memory regions meant for storing data. This blocks buffer overflow attacks where attackers attempt to execute malicious code from a data segment.
+- **Address Space Layout Randomization (ASLR):** Randomizes the memory addresses used by system components to make it harder for attackers to predict where to inject malicious code.
+
+Common Attacks on Memory and Their Mitigation are:
+
+- Buffer Overflow Attacks: When an attacker overflows a memory buffer, they can overwrite adjacent memory, potentially injecting malicious code. Mitigation: Use secure coding practices, DEP, and ASLR.
+- Memory Leak Exploits: Poorly managed memory can lead to excessive resource consumption, making systems slow or vulnerable. Mitigation: Implement proper memory management and garbage collection.
+
+Memory protection is a fundamental aspect of operating system security, ensuring that applications and system processes remain isolated and secure from potential threats.
+
+A **Trusted Platform Module (TPM)** is a dedicated security chip built into a computer’s motherboard that provides hardware-based security functions. It is used for cryptographic operations, secure key storage, and system integrity verification.
+
+What Does a TPM Do?
+
+1. Secure Key Storage: TPMs store cryptographic keys in a protected manner, making them resistant to theft and malware attacks.
+2. Platform Integrity Checks: TPMs measure and verify the integrity of boot components to detect unauthorized changes before the operating system loads.
+3. Disk Encryption Support: Technologies like BitLocker (Windows) and LUKS (Linux) use TPM to store encryption keys securely.
+4.Hardware-Based Authentication: TPMs can be used in multi-factor authentication (MFA) to enhance system security.
+
+TPM exists in 2 different versions:
+- TPM 1.2: First widely adopted version, supports RSA encryption and SHA-1 hashing.
+- TPM 2.0: Improved cryptographic support (SHA-256, ECC), enhanced authorization mechanisms, and better compatibility with modern security needs.
+
+The following table recaps benefits and limitations of TPMs:
+
+**Cryptographic modules** are hardware or software components that implement encryption, decryption, hashing, and digital signature functions to protect sensitive information. They follow strict security standards, ensuring cryptographic operations are performed safely and efficiently.
+Without properly designed cryptographic modules, sensitive data like passwords, financial transactions, and confidential communications could be exposed to attackers. Weak or improperly implemented encryption can lead to data breaches and security vulnerabilities.
+
+Common Cryptographic Functions in Modules are:
+1. Encryption & Decryption: Protects data at rest and in transit using algorithms like AES, RSA, and ECC.
+2. Hashing: Generates fixed-length digital fingerprints (e.g., SHA-256) for data integrity verification.
+3. Key Management: Securely generates, stores, and distributes cryptographic keys.
+4. Digital Signatures: Ensures message authenticity and prevents forgery.
+
+Standards for Cryptographic Modules are:
+- FIPS 140-2/140-3 (Federal Information Processing Standard): Defines security levels (1–4) for cryptographic modules used in government and industry.
+- Common Criteria (ISO 15408): Evaluates cryptographic module security and effectiveness.
+
+:link: 
