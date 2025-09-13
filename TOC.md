@@ -67,7 +67,7 @@
   - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/FLASHCARDS.md#flashcards)
     
 - **DOMAIN2: Asset Security**
-  - [Preface](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.0%20Preface.md#preface)+ù
+  - [Preface](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.0%20Preface.md#preface)
   - 2.1 Identify and classify information and assets
      - [2.1.1 Data Classification](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.01%20Identify%20and%20classify%20information%20and%20assets.md#211-data-classification)
      - [2.1.2 Asset Classification](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.01%20Identify%20and%20classify%20information%20and%20assets.md#212-asset-classification)
