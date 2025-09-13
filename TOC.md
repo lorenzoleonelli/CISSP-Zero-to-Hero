@@ -66,6 +66,27 @@
   - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/DICTIONARY.md#dictionary)
   - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/FLASHCARDS.md#flashcards)
     
-
-
+- **DOMAIN2: Asset Security**
+  - [Preface](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.0%20Preface.md#preface)+ù
+  - 2.1 Identify and classify information and assets
+     - [2.1.1 Data Classification](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.01%20Identify%20and%20classify%20information%20and%20assets.md#211-data-classification)
+     - [2.1.2 Asset Classification](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.01%20Identify%20and%20classify%20information%20and%20assets.md#212-asset-classification)
+  - [2.2 Establish information and asset handling requirements](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.02%20Establish%20information%20and%20asset%20handling%20requirements.md#22-establish-information-and-asset-handling-requirements)
+  - 2.3 Provision information and assets securely
+     - [2.3.1 Information and Asset Ownership](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.03%20Provision%20information%20and%20assets%20securely.md#231-information-and-asset-ownership)
+     - [2.3.2 Asset Inventory](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.03%20Provision%20information%20and%20assets%20securely.md#232-asset-inventory)
+     - [2.3.3 Asset Management](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.03%20Provision%20information%20and%20assets%20securely.md#233-asset-management)
+  - 2.4 Manage Data Lifecycle
+      -  [2.4.1 Data roles (i.e., owners, controllers, custodians, processors, users/subjects)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#241-data-roles-ie-owners-controllers-custodians-processors-userssubjects)
+      -  [2.4.2 Data collection](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#242-data-collection)
+      -  [2.4.3 Data location](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#243-data-location)
+      -  [2.4.4 Data Maintenance](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#244-data-maintenance)
+      -  [2.4.5 Data Retention](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#245-data-retention)
+      -  [2.4.6 Data Remanence](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#246-data-remanence)
+      -  [2.4.7 Data Destruction](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.04%20Manage%20Data%20Lifecycle.md#247-data-destruction)
+  - [2.5 Ensure appropriate asset retention](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.05%20Ensure%20appropriate%20asset%20retention.md#25-ensure-appropriate-asset-retention)
+  - 2.6 Determine data security controls and compliance requirements
+      - [2.6.1 Data States](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.06%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md#261-data-states)
+  - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/DICTIONARY.md#dictionary)
+        
 
