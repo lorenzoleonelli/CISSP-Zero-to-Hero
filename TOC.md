@@ -88,5 +88,21 @@
   - 2.6 Determine data security controls and compliance requirements
       - [2.6.1 Data States](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.06%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md#261-data-states)
   - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/DICTIONARY.md#dictionary)
+  - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/FLASHCARDS.md#flashcards)
+
+- **DOMAIN3: Security Architecture and Engineering**
+  - [3.1 Research, implement, and manage engineering processes using secure design principles](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#31-research-implement-and-manage-engineering-processes-using-secure-design-principles)
+     - [3.1.1 Threat modeling](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#311-threat-modeling)
+     - [3.1.2 Least Privilege](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#312-least-privilege)
+     - [3.1.3 Defense in depth](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#313-defense-in-depth)
+     - [3.1.4 Secure Defaults](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#314-secure-defaults)
+     - [3.1.5 Fail Securely](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#315-fail-securely)
+     - [3.1.6 Segregation of Duties](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#316-segregation-of-duties)
+     - [3.1.7 Keep it simple and small](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#317-keep-it-simple-and-small)
+     - [3.1.8 Zero Trust or Trust but Verify](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#318-zero-trust-or-trust-but-verify)
+     - [3.1.9 Privacy by Design](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#319-privacy-by-design)
+     - [3.1.10 Shared Responsibility](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#3110-shared-responsibility)
+     - [3.1.11 Secure Access Service Edge](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.01%20Research%2C%20implement%2C%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md#3111-secure-access-service-edge)
+     - 
         
 
