@@ -1,5 +1,7 @@
 # CISSP-Zero-to-Hero
-CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview. Have fun with another dimension of learning.
+CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview. 
+
+Have fun with another dimension of learning.
 
 [![Visit_InfoSec Vault](https://img.shields.io/badge/Visit-InfoSecVault-009688)](https://www.theinfosecvault.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue)](https://www.linkedin.com/in/lorenzoleonelli/)
