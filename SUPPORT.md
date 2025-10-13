@@ -10,30 +10,6 @@ Your engagement makes a real difference — both for this project and for the CI
 ### 🌐 Connect with Me
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/lorenzoleonelli/) to:
-- Get free CISSP explanations, real-world security scenarios, and more.
-- Stay up to date with new question banks, study tools, and resources.
-- Join the discussion with 16,000+ professionals in cybersecurity and project management.
-
-Your comments and reactions on my posts really help spread quality educational content to more learners!
-
----
-
-## ☕ Support My Work
-
-Creating high-quality study material takes time and passion.  
-If you’d like to support this initiative and help me keep sharing free CISSP resources, you can make a small donation here:  
-👉 [**Make a Donation**](<# ❤️ Support & Connect
-
-Hey CISSP students 👋  
-
-If you found this repository helpful in your exam preparation or cybersecurity learning journey, I’d love your support in helping others discover it too.  
-Your engagement makes a real difference — both for this project and for the CISSP community as a whole.
-
----
-
-## 🌐 Connect with Me
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/lorenzoleonelli/) to:
 - Get free CISSP explanations, real-world security scenarios, and PMP insights.
 - Stay up to date with new question banks, study tools, and resources.
 - Join the discussion with 12,000+ professionals in cybersecurity and project management.
@@ -42,23 +18,12 @@ Your comments and reactions on my posts really help spread quality educational c
 
 ---
 
-## ☕ Support My Work
+### ☕ Support My Work
 
 Creating high-quality study material takes time and passion.  
 If you’d like to support this initiative and help me keep sharing free CISSP and PMP resources, you can make a small donation here:  
-👉 [**Make a Donation**](<[link](https://www.paypal.com/donate/?business=P9LCF7RS3A37U&no_recurring=0&item_name=If+you+feel+that+our+time+together+has+made+a+positive+impact%2C+I+would+be+grateful+for+any+support+you+can+provide.+&currency_code=USD
-)>)
-
-Every coffee, like, or share helps me continue producing new content for you and the community.  
-Thank you sincerely for being part of this journey 🙏
-
----
-
-**Stay curious. Stay ethical. Keep learning.**  
-
-– Lorenzo Leonelli  
-PMP | CISSP | Cybersecurity & Project Management Educator
->)
+👉 [**Make a Donation**](https://www.paypal.com/donate/?business=P9LCF7RS3A37U&no_recurring=0&item_name=If+you+feel+that+our+time+together+has+made+a+positive+impact%2C+I+would+be+grateful+for+any+support+you+can+provide.+&currency_code=USD
+)
 
 Every coffee, like, or share helps me continue producing new content for you and the community.  
 Thank you sincerely for being part of this journey 🙏
@@ -68,3 +33,4 @@ Thank you sincerely for being part of this journey 🙏
 **Stay curious. Stay ethical. Keep learning.**  
 – Lorenzo Leonelli  
 PMP | CISSP | Cybersecurity & Project Management Educator
+
