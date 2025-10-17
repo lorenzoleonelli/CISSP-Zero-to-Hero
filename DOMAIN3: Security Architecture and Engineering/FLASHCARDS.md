@@ -1,4 +1,4 @@
-## FLASHCARDS ##
+## Flashcards ##
 
 1. A security model where access is never automatically trusted and must always be verified.
 
