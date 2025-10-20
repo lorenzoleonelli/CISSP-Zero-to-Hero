@@ -122,6 +122,10 @@
      - [3.5.13 High-Performance Computing systems](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.05%20Assess%20and%20mitigate%20the%20vulnerabilities%20of%20security%20architectures%2C%20designs%20and%20solution%20elements.md#3513-high-performance-computing-systems)
      - [3.5.14 Edge Computing Systems](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.05%20Assess%20and%20mitigate%20the%20vulnerabilities%20of%20security%20architectures%2C%20designs%20and%20solution%20elements.md#3514-edge-computing-systems)
      - [3.5.15 Virtualized Systems](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.05%20Assess%20and%20mitigate%20the%20vulnerabilities%20of%20security%20architectures%2C%20designs%20and%20solution%20elements.md#3515-virtualized-systems)
-     -    
+  - [3.6 Select and determine cryptographic solutions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.06%20Select%20and%20determine%20cryptographic%20solutions.md#36-select-and-determine-cryptographic-solutions)
+    - [3.6.1 Cryptographic life cycle (e.g., keys, algorithm selection)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.06%20Select%20and%20determine%20cryptographic%20solutions.md#361-cryptographic-life-cycle-eg-keys-algorithm-selection)
+    - [3.6.2 Cryptographic methods (e.g., symmetric, asymmetric, elliptic curves, quantum)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.06%20Select%20and%20determine%20cryptographic%20solutions.md#362-cryptographic-methods-eg-symmetric-asymmetric-elliptic-curves-quantum)
+    - [3.6.3 Public key infrastructure (PKI) (e.g., quantum key distribution)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.06%20Select%20and%20determine%20cryptographic%20solutions.md#public-key-infrastructure-pki--eg-quantum-key-distribution)
+    -      
         
 
