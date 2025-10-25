@@ -87,6 +87,8 @@
   - [2.5 Ensure appropriate asset retention](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.05%20Ensure%20appropriate%20asset%20retention.md#25-ensure-appropriate-asset-retention)
   - 2.6 Determine data security controls and compliance requirements
       - [2.6.1 Data States](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.06%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md#261-data-states)
+  - [2.Q.1 Easy Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.Q.1%20Easy%20Questions.md#easy-questions)
+  - [2.Q.2 Hard Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/2.Q.2%20Hard%20Questions.md#hard-questions)
   - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/DICTIONARY.md#dictionary)
   - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN2%3A%20Asset%20Security/FLASHCARDS.md#flashcards)
 
@@ -163,5 +165,11 @@
     - [3.10.7 Transition/deployment](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.10%20Manage%20the%20information%20system%20lifecycle.md#3107-transitiondeployment)
     - [3.10.8 Operations and maintenance/sustainment](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.10%20Manage%20the%20information%20system%20lifecycle.md#3108-operations-and-maintenancesustainment)
     - [3.10.9 Retirement/disposal](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.10%20Manage%20the%20information%20system%20lifecycle.md#3109-retirementdisposal)      
-        
+  - [3.D.1 System Design Basics](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.D.1%20System%20Design%20Basics.md#3d1-system-design-basics)
+  - [3.D.2 Understanding How Common IoT Sensors Work](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.D.2%20Understanding%20How%20Common%20IoT%20Sensors%20Work.md#3d2-understanding-how-common-iot-sensors-work)
+  - [3.Q.1 Easy Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.Q.1%20Easy%20Questions.md#easy-questions)
+  - [3.Q.2 Hard Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/3.Q.2%20Hard%20Questions.md#hard-questions)
+  - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/DICTIONARY.md#dictionary)
+  - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN3%3A%20Security%20Architecture%20and%20Engineering/FLASHCARDS.md#flashcards)
+  
 
