@@ -245,4 +245,12 @@
     - [5.5.2 Provisioning and deprovisioning (e.g., on/off boarding and transfers)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.5%20Manage%20the%20identity%20and%20access%20provisioning%20lifecycle.md#552-provisioning-and-deprovisioning-eg-onoff-boarding-and-transfers)
     - [5.5.3 Role definition and transition (e.g., people assigned to new roles)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.5%20Manage%20the%20identity%20and%20access%20provisioning%20lifecycle.md#553-role-definition-and-transition-eg-people-assigned-to-new-roles)
     - [5.5.4 Privilege escalation (e.g., use of sudo, auditing its use)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.5%20Manage%20the%20identity%20and%20access%20provisioning%20lifecycle.md#554-privilege-escalation-eg-use-of-sudo-auditing-its-use)
-    -          
+    - [5.5.5 Service accounts management](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.5%20Manage%20the%20identity%20and%20access%20provisioning%20lifecycle.md#555-service-accounts-management)
+  - [5.6 Implement authentication systems](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.6%20Implement%20authentication%20systems.md#56-implement-authentication-systems)
+  - [5.L.1 FIDO and FIDO2: Revolutionizing Authentication](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.L.1%20FIDO%20and%20FIDO2%3A%20Revolutionizing%20Authentication.md#fido-and-fido2-revolutionizing-authentication)
+  - [5.Q.1 Easy Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.Q.1%20Easy%20Questions.md#easy-questions)
+  - [5.Q.2 Hard Questions](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/5.Q.2%20Hard%20Questions.md#hard-questions)
+  - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/DICTIONARY.md#dictionary)
+  - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN5%3A%20Identity%20and%20Access%20Management%20(IAM)/FLASHCARDS.md#flashcards)
+
+           
