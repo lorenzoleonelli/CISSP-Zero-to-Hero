@@ -294,3 +294,12 @@
   - [Dictionary](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN6%3A%20Security%20Assessment%20and%20Testing/DICTIONARY.md#dictionary)
   - [Flashcards](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN6%3A%20Security%20Assessment%20and%20Testing/FLASHCARDS.md#flashcards)
                
+- **DOMAIN7: Security Operations**
+  - 7.01 Understand and comply with investigations
+    - [7.1.0 Preface](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN7%3A%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md#710-preface)
+    - [7.1.1 Evidence collection and handling](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN7%3A%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md#711-evidence-collection-and-handling)
+    - [7.1.2 Reporting and documentation](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN7%3A%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md#712-reporting-and-documentation)
+    - [7.1.3 Investigative techniques](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN7%3A%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md#713-investigative-techniques)
+    - [7.1.4 Digital forensics tools, tactics, and procedures](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN7%3A%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md#714-digital-forensics-tools-tactics-and-procedures)
+    - [7.1.5 Artifacts (e.g., data, computer, network, mobile device)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN7%3A%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md#715-artifacts-eg-data-computer-network-mobile-device)
+   
