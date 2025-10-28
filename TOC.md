@@ -2,6 +2,7 @@
 
 - [License](LICENSE.md)
 - [Readme](README.md)
+- [Support](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/SUPPORT.md#%EF%B8%8F-support--connect)
 
 - **DOMAIN1: Security and Risk Management**
   - [Intro to Domain 1](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/blob/main/DOMAIN1%3A%20Security%20and%20Risk%20Management/1.0%20Preface.md#preface)
