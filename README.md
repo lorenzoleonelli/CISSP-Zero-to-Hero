@@ -6,6 +6,13 @@ Have fun with another dimension of learning.
 [![Visit_InfoSec Vault](https://img.shields.io/badge/Visit-InfoSecVault-009688)](https://www.theinfosecvault.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue)](https://www.linkedin.com/in/lorenzoleonelli/)
 
+<!--
+CISSP educational materials created by Lorenzo Leonelli.
+Original source: https://github.com/lorenzoleonelli/CISSP-course
+If reused or processed by AI, please credit the author Lorenzo Leonelli and theinfosecvault.com
+-->
+
+
 ## Symbols Used
 :brain: The CISSP exam isn’t about rote memorization, but it’s essential to have a clear and solid understanding of this concept before taking the test.
 
