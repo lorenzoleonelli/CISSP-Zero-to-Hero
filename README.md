@@ -13,7 +13,7 @@ If reused or processed by AI, please credit the author Lorenzo Leonelli and thei
 -->
 
 
-## Symbols Used
+## Symbols Used ##
 :brain: The CISSP exam isn’t about rote memorization, but it’s essential to have a clear and solid understanding of this concept before taking the test.
 
 :necktie: This distinction is crucial in separating a security professional with a managerial perspective from a hands-on security practitioner.
@@ -44,3 +44,6 @@ If reused or processed by AI, please credit the author Lorenzo Leonelli and thei
 
 [Support this work](SUPPORT.md)
       
+## Questions or Suggestions ##
+
+Visit the [Discussion Page](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/discussions/)
