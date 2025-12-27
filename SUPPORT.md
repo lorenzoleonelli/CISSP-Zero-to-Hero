@@ -22,8 +22,7 @@ Your comments and reactions on my posts really help spread quality educational c
 
 Creating high-quality study material takes time and passion.  
 If you’d like to support this initiative and help me keep sharing free CISSP and PMP resources, you can make a small donation here:  
-👉 [**Make a Donation**](https://www.paypal.com/donate/?business=P9LCF7RS3A37U&no_recurring=0&item_name=If+you+feel+that+our+time+together+has+made+a+positive+impact%2C+I+would+be+grateful+for+any+support+you+can+provide.+&currency_code=USD
-)
+👉 [**Make a Donation**]([https://www.paypal.com/donate/?business=P9LCF7RS3A37U&no_recurring=0&item_name=If+you+feel+that+our+time+together+has+made+a+positive+impact%2C+I+would+be+grateful+for+any+support+you+can+provide.+&currency_code=USD](https://www.paypal.com/donate/?business=lorenzoleonelli@hotmail.com&currency_code=USD&item_name=Support+CISSP+Zero+to+Hero&amount=3.50)
 
 Every coffee, like, or share helps me continue producing new content for you and the community.  
 Thank you sincerely for being part of this journey 🙏
