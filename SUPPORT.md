@@ -12,7 +12,7 @@ Your engagement makes a real difference — both for this project and for the CI
 Follow me on [LinkedIn](https://www.linkedin.com/in/lorenzoleonelli/) to:
 - Get free CISSP explanations, real-world security scenarios, and PMP insights.
 - Stay up to date with new question banks, study tools, and resources.
-- Join the discussion with 12,000+ professionals in cybersecurity and project management.
+- Join the discussion with 16,000+ professionals in cybersecurity and project management.
 
 Your comments and reactions on my posts really help spread quality educational content to more learners!
 
