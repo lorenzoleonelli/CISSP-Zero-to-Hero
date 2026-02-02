@@ -1,0 +1,8 @@
+title: CISSP Zero to Hero
+description: Free CISSP study notes and explanations
+theme: minima
+
+minima:
+  skin: classic
+
+markdown: kramdown
