@@ -1,0 +1,13 @@
+remote_theme: pmarsceill/just-the-docs
+title: CISSP Zero to Hero
+description: Ultimate CISSP Knowledge Base
+
+# This prevents Jekyll from breaking on your "1.D.1" filenames
+strict_front_matter: false
+
+# Enable the built-in search
+search_enabled: true
+search_tokenizer_separator: /[\s\-/]+/
+
+# Tells GitHub to look at all folders
+include: ["assets", ".well-known"]
