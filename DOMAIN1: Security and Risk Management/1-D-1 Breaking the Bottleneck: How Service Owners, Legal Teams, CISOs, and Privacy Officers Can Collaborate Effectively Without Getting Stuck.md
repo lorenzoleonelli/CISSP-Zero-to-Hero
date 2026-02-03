@@ -1,4 +1,4 @@
-## 1-D-1 Breaking the Bottleneck: How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck ##
+## 1.D.1 Breaking the Bottleneck: How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck ##
 
 ```mermaid
 
