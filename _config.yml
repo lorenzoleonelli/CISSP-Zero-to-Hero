@@ -2,12 +2,15 @@ remote_theme: pmarsceill/just-the-docs
 title: CISSP Zero to Hero
 description: Ultimate CISSP Knowledge Base
 
-# This prevents Jekyll from breaking on your "1.D.1" filenames
+# The "Nuclear Option" to ignore filename errors
+excerpt_separator: ""
+future: true
 strict_front_matter: false
 
-# Enable the built-in search
+# Enable Search
 search_enabled: true
 search_tokenizer_separator: /[\s\-/]+/
 
-# Tells GitHub to look at all folders
-include: ["assets", ".well-known"]
+# This tells Jekyll to ignore the system that is currently crashing
+plugins:
+  - jekyll-remote-theme
