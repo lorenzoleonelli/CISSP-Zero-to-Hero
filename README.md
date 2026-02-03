@@ -5,7 +5,7 @@ Have fun with another dimension of learning.
 
 [![Visit_InfoSec Vault](https://img.shields.io/badge/Visit-InfoSecVault-009688)](https://www.theinfosecvault.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue)](https://www.linkedin.com/in/lorenzoleonelli/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat&logo=github&color=gold)]((https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero))
+[![GitHub Repo stars](https://img.shields.io/github/stars/lorenzoleonelli/CISSP-Zero-to-Hero?style=flat&logo=github&color=gold)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero)
 
 <!--
 CISSP educational materials created by Lorenzo Leonelli.
