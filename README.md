@@ -1,3 +1,9 @@
+<form action="https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/search" method="get">
+  <input type="text" name="q" placeholder="Search Knowledge Base..." style="padding: 5px; border-radius: 4px; border: 1px solid #ccc;">
+  <button type="submit" style="padding: 5px 10px; cursor: pointer;">Search</button>
+</form>
+
+
 # CISSP-Zero-to-Hero
 CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview. 
 
