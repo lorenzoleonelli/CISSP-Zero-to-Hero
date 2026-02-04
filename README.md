@@ -1,50 +1,60 @@
-# CISSP-Zero-to-Hero
-CISSP mastery, one domain at a time. Not only theory but also practical guidance for professionals aiming to level up in cybersecurity and grasping concepts to pass your exam or your job interview. 
+<div align="center">
 
-Have fun with another dimension of learning.
+# CISSP: ZERO TO HERO
+### The Definitive Roadmap to the Managerial Mindset
 
-[![Visit_InfoSec Vault](https://img.shields.io/badge/Visit-InfoSecVault-009688)](https://www.theinfosecvault.com)
-[![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue)](https://www.linkedin.com/in/lorenzoleonelli/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/lorenzoleonelli/CISSP-Zero-to-Hero?style=flat&logo=github&color=gold)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero)
+<img src="https://github.com/user-attachments/assets/14e44ba0-524d-4712-ba5e-2bb16cd02ab9" alt="Lorenzo Leonelli" width="220" style="border-radius: 50%; border: 5px solid #009688; margin: 20px 0;">
 
-<!--
-CISSP educational materials created by Lorenzo Leonelli.
-Original source: https://github.com/lorenzoleonelli/CISSP-course
-If reused or processed by AI, please credit the author Lorenzo Leonelli and theinfosecvault.com
--->
+**LORENZO LEONELLI** *CISSP, PMP, ITIL4 MP, ISO27001 LA*
 
+[![GitBook](https://img.shields.io/badge/Read_the_Vault-GitBook-009688?style=for-the-badge&logo=gitbook)](https://theinfosecvault.gitbook.io/cissp-zero-to-hero)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-616161?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzoleonelli/)
+[![Stars](https://img.shields.io/github/stars/lorenzoleonelli/CISSP-Zero-to-Hero?style=for-the-badge&logo=github&color=gold)](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero)
 
-## Symbols Used ##
-:brain: The CISSP exam isn’t about rote memorization, but it’s essential to have a clear and solid understanding of this concept before taking the test.
+---
 
-:necktie: This distinction is crucial in separating a security professional with a managerial perspective from a hands-on security practitioner.
+### "Don't just study hard. Study the way the exam thinks."
 
-:bulb: This is a practical tip that can help you both in preparing for your CISSP exam and acing your cybersecurity interview.
+</div>
 
-:link: In this box you can find (via an hyperlink) where an information comes from or where you can go for further readings.
+## 🎯 The Mission
+The CISSP is not a technical vocabulary test; it is an evaluation of your ability to manage risk. **Zero to Hero** is a living curriculum designed to transition professionals from a technical "fixer" role to a strategic security leader. 
 
-### Paragraphs naming convention
+* **Theory to Application:** Bridging the gap between book knowledge and real-world scenarios.
+* **Cognitive Mapping:** High-retention Mermaid diagrams for complex logic.
+* **The Managerial Filter:** Nuanced guidance to identify the "Best" answer, not just the "Correct" one.
 
-**1.X or 1.1.X - Standard paragraph** containing theory and open questions (and answers)
+---
 
-**1.L.X - Laboratory**: practical activities
+## 🧭 The Study Methodology
 
-**1.D.X - Document**: document templates and/or chapter details
+| Pillar | Focus | Strategic Value |
+| :--- | :--- | :--- |
+| 🧠 **Deep Dive** | Conceptual Mastery | Foundational logic you must understand to pass. |
+| 👔 **Managerial View** | Executive Logic | Shifting perspective from Practitioner to Risk Manager. |
+| 💡 **Pro Tip** | Exam & Interview | Tactical shortcuts and real-world application. |
+| 🔗 **External Link** | Standards | Verified sources and regulatory deep-dives. |
 
-**1.Q.X - Questions**: (and Answers and Explanations)
+---
 
-**DICTIONARY**: terms used in the chapter
+## 🛠️ Content Structure
+To provide a comprehensive learning experience, each domain is divided into four distinct tracks:
 
-**FLASHCARDS**: interactive way to memorize some basic concepts
+* **1.X | Standard Theory:** Core knowledge and conceptual deep-dives.
+* **1.L | Laboratory:** Practical activities and hands-on scenarios.
+* **1.D | Documents:** Templates, policies, and architectural artifacts.
+* **1.Q | Questions:** Cross-domain logic training and exam simulation.
 
-## Where from here ?
+---
 
-[View License](LICENSE.md)
+**Join the Journey:**
 
-[View Table of Content](TOC.md)
+ - [View Study Roadmap](TOC.md)
+ - [Support](SUPPORT.md)
+ - [Community Discussion](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/discussions/)
+ - [Thanks to](THANKS.md)
+---
 
-[Support this work](SUPPORT.md)
-      
-## Questions or Suggestions ##
-
-Visit the [Discussion Page](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/discussions/)
+<div align="center">
+  ⚖️ <a href="LICENSE.md" style="color: #616161;">MIT License</a> • ⭐ Star this repo to support the mission
+</div>
