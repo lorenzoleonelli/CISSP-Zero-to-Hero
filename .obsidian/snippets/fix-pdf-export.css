@@ -1,0 +1,20 @@
+@media print {
+  /* This forces the 'details' tag to act like a normal block of text */
+  details {
+    display: block !important;
+  }
+  
+  /* This ensures the content inside is not hidden */
+  details[open] > *:not(summary), 
+  details > *:not(summary) {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  /* Optional: Adds a little gap between the question and answer */
+  summary {
+    margin-bottom: 10px;
+    page-break-after: avoid;
+  }
+}
