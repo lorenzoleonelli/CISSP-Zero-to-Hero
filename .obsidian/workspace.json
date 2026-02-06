@@ -11,12 +11,14 @@
             "id": "020b9db62f6bf9b9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png"
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ChatGPT Image Feb 6, 2026, 10_52_51 PM"
+              "icon": "lucide-file",
+              "title": "1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ChatGPT Image Feb 6, 2026, 10_52_51 PM"
+              "title": "Backlinks for 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ChatGPT Image Feb 6, 2026, 10_52_51 PM"
+              "title": "Outgoing links from 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ChatGPT Image Feb 6, 2026, 10_52_51 PM"
+              "title": "Outline of 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           }
         ]
@@ -182,8 +184,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "44e57a75713881b5",
+  "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+    "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+    "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "SUMMARY.md",
     "Images",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
@@ -191,10 +196,7 @@
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
-    "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
-    "DOMAIN1 - Security and Risk Management/1.07 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "TOC.md",
     "Images/Screenshot 2026-02-06 184352.png",
     "1.1.md",
