@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "1.6 Develop, document, and implement security policy, standards, procedures, and guidelines"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "Backlinks for 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "Outgoing links from 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "Outline of 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines"
             }
           }
         ]
@@ -186,17 +186,17 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
+    "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
-    "ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+    "ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
+    "ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "SUMMARY.md",
     "DOMAIN1 - Security and Risk Management/1.07 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "TOC.md",
-    "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
     "Screenshot 2026-02-06 184352.png",
     "1.1.md",
     "1.3.4.md",
