@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Understand and apply security concepts"
+              "title": "1.1 Understand, adhere to, and promote professional ethics"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.2 Understand and apply security concepts"
+              "title": "Backlinks for 1.1 Understand, adhere to, and promote professional ethics"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.2 Understand and apply security concepts"
+              "title": "Outgoing links from 1.1 Understand, adhere to, and promote professional ethics"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2 Understand and apply security concepts"
+              "title": "Outline of 1.1 Understand, adhere to, and promote professional ethics"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "SUMMARY.md",
     "temp.md",
     "TOC.md",
