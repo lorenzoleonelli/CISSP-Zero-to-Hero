@@ -8,4 +8,8 @@
 
 - [1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.4%20Understand%20legal,regulatory,compliance%20issues%20that%20pertain%20to%20infosec%20in%20a%20holistic%20context.md)
 
+- [1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.5%20Understand%20requirements%20for%20investigation%20types%20(i.e.,%20administrative,%20criminal,%20civil,%20regulatory,%20industry%20standards).md)
+
+- [1.6 Develop, document, and implement security policy, standards, procedures, and guidelines](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.6%20Develop,%20document,%20and%20implement%20security%20policy,%20standards,%20procedures,%20and%20guidelines.md)
+
 
