@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
+              "title": "Backlinks for SUMMARY"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
+              "title": "Outgoing links from SUMMARY"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+                "file": "SUMMARY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
+              "title": "Outline of SUMMARY"
             }
           }
         ]
@@ -186,15 +186,23 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+    "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
+    "Images/Gemini_Generated_Image_51x6ec51x6ec51x6.png",
+    "Images/Pasted image 20260207082654.png",
+    "Images/Pasted image 20260207081852.png",
+    "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
+    "Images/Data_loss_leak_breach.png",
+    "Gemini_Generated_Image_f2ynukf2ynukf2yn.png",
+    "Images/Gemini_Generated_Image_nwij1ynwij1ynwij.png",
+    "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
+    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "SUMMARY.md",
     "Images",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
-    "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
-    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "TOC.md",
