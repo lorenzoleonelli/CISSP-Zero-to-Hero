@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SUMMARY"
+              "title": "Backlinks for 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SUMMARY"
+              "title": "Outgoing links from 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SUMMARY"
+              "title": "Outline of 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
+    "SUMMARY.md",
     "Images/Gemini_Generated_Image_51x6ec51x6ec51x6.png",
     "Images/Pasted image 20260207082654.png",
     "Images/Pasted image 20260207081852.png",
@@ -199,7 +200,6 @@
     "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
-    "SUMMARY.md",
     "Images",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
