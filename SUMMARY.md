@@ -17,37 +17,37 @@
 - [1.8 Contribute to and enforce personnel security policies and procedures](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.8%20Contribute%20to%20and%20enforce%20personnel%20security%20policies%20and%20procedures.md)
 
 - [1.9 Understand and apply risk management concepts](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.9%20Understand%20and%20apply%20risk%20management%20concepts.md)
-- 
-[1.10 Understand and apply threat modeling concepts and methodologies](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.10%20Understand%20and%20apply%20threat%20modeling%20concepts%20and%20methodologies.md)
 
-[1.11 Apply supply chain risk management (SCRM) concepts](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.11%20Apply%20supply%20chain%20risk%20management%20(SCRM)%20concepts.md)
+- [1.10 Understand and apply threat modeling concepts and methodologies](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.10%20Understand%20and%20apply%20threat%20modeling%20concepts%20and%20methodologies.md)
 
-[1.12 Establish and maintain a security awareness, education, and training program](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.12%20Establish%20and%20maintain%20a%20security%20awareness,%20education,%20and%20training%20program.md)
+- [1.11 Apply supply chain risk management (SCRM) concepts](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.11%20Apply%20supply%20chain%20risk%20management%20(SCRM)%20concepts.md)
 
-[1.D.1 How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.1%20How%20Service%20Owners,%20Legal%20Teams,%20CISOs,%20and%20Privacy%20Officers%20Can%20Collaborate%20Effectively%20Without%20Getting%20Stuck.md)
+- [1.12 Establish and maintain a security awareness, education, and training program](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.12%20Establish%20and%20maintain%20a%20security%20awareness,%20education,%20and%20training%20program.md)
 
-[1.D.2 Understanding Patents, Copyrights, and Trademarks (Without Falling Asleep)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.2%20Understanding%20Patents,%20Copyrights,%20and%20Trademarks%20(Without%20Falling%20Asleep).md)
+- [1.D.1 How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.1%20How%20Service%20Owners,%20Legal%20Teams,%20CISOs,%20and%20Privacy%20Officers%20Can%20Collaborate%20Effectively%20Without%20Getting%20Stuck.md)
 
-[1.D.3 Acceptable Use Policy (AUP)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.3%20Acceptable%20Use%20Policy%20(AUP).md)
+- [1.D.2 Understanding Patents, Copyrights, and Trademarks (Without Falling Asleep)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.2%20Understanding%20Patents,%20Copyrights,%20and%20Trademarks%20(Without%20Falling%20Asleep).md)
 
-[1.D.4 Non-Disclosure Agreement (NDA)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.4%20Non-Disclosure%20Agreement%20(NDA).md)
+- [1.D.3 Acceptable Use Policy (AUP)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.3%20Acceptable%20Use%20Policy%20(AUP).md)
 
-[1.D.5 Service Level Agreement (SLA)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.5%20Service%20Level%20Agreement%20(SLA).md)
+- [1.D.4 Non-Disclosure Agreement (NDA)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.4%20Non-Disclosure%20Agreement%20(NDA).md)
 
-![](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.6%20NIST%20CSF%202.0%20and%20ISO%2027001_2022%20(mapping)%20by%20Andrey%20Prozorov.pdf)
+- [1.D.5 Service Level Agreement (SLA)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.5%20Service%20Level%20Agreement%20(SLA).md)
 
-[1.L.1 Github as a learning tool](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.1%20Github%20as%20a%20learning%20tool.md)
+- ![](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.6%20NIST%20CSF%202.0%20and%20ISO%2027001_2022%20(mapping)%20by%20Andrey%20Prozorov.pdf)
 
-[1.L.2 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.2%20Locking%20Down%20RDP%20-%20Expert-Level%20Setup,%20Ports,%20Authentication%20&%20Monitoring.md)
+- [1.L.1 Github as a learning tool](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.1%20Github%20as%20a%20learning%20tool.md)
 
-[1.L.3 Risk Matrix and Risk Register](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.3%20Risk%20Matrix%20and%20Risk%20Register.md)
+- [1.L.2 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.2%20Locking%20Down%20RDP%20-%20Expert-Level%20Setup,%20Ports,%20Authentication%20&%20Monitoring.md)
 
-[1.L.7 Windows CLI for Security Beginners](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.7%20Windows%20CLI%20for%20Security%20Beginners.md)
+- [1.L.3 Risk Matrix and Risk Register](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.3%20Risk%20Matrix%20and%20Risk%20Register.md)
 
-[1.Q.1 Easy Questions](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.Q.1%20Easy%20Questions.md)
+- [1.L.7 Windows CLI for Security Beginners](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.7%20Windows%20CLI%20for%20Security%20Beginners.md)
 
-[1.Q.2 Hard Questions](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.Q.2%20Hard%20Questions.md)
+- [1.Q.1 Easy Questions](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.Q.1%20Easy%20Questions.md)
 
-[DICTIONARY](DOMAIN1%20-%20Security%20and%20Risk%20Management/DICTIONARY.md)
+- [1.Q.2 Hard Questions](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.Q.2%20Hard%20Questions.md)
 
-[FLASHCARDS](DOMAIN1%20-%20Security%20and%20Risk%20Management/FLASHCARDS.md)
+- [DICTIONARY](DOMAIN1%20-%20Security%20and%20Risk%20Management/DICTIONARY.md)
+
+- [FLASHCARDS](DOMAIN1%20-%20Security%20and%20Risk%20Management/FLASHCARDS.md)
