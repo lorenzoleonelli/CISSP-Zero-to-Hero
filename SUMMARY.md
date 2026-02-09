@@ -42,7 +42,7 @@
 
 - [1.L.3 Risk Matrix and Risk Register](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.3%20Risk%20Matrix%20and%20Risk%20Register.md)
 
-- [1.L.7 Windows CLI for Security Beginners](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.7%20Windows%20CLI%20for%20Security%20Beginners.md)
+- [1.L.4 Windows CLI for Security Beginners](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.L.4%20Windows%20CLI%20for%20Security%20Beginners.md)
 
 - [1.Q.1 Easy Questions](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.Q.1%20Easy%20Questions.md)
 

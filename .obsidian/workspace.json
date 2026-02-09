@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.L.4 Windows CLI for Security Beginners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "1.L.4 Windows CLI for Security Beginners"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SUMMARY"
+              "title": "Backlinks for 1.3 Evaluate, apply, and sustain security governance principles"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SUMMARY"
+              "title": "Outgoing links from 1.3 Evaluate, apply, and sustain security governance principles"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SUMMARY"
+              "title": "Outline of 1.3 Evaluate, apply, and sustain security governance principles"
             }
           }
         ]
@@ -201,15 +201,18 @@
   },
   "active": "90f833d220891610",
   "lastOpenFiles": [
-    "DOMAIN1 - Security and Risk Management/1.L.3 Risk Matrix and Risk Register.md",
+    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+    "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
+    "DOMAIN1 - Security and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
     "SUMMARY.md",
+    "DOMAIN1 - Security and Risk Management/1.L.3 Risk Matrix and Risk Register.md",
     "DOMAIN1 - Security and Risk Management/1.Q.2 Hard Questions.md",
     "DOMAIN1 - Security and Risk Management/1.Q.1 Easy Questions.md",
-    "DOMAIN1 - Security and Risk Management/1.L.7 Windows CLI for Security Beginners.md",
+    "DOMAIN1 - Security and Risk Management/1.L.4 Windows CLI for Security Beginners.md",
     "DOMAIN1 - Security and Risk Management/1.L.2 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring.md",
     "DOMAIN1 - Security and Risk Management/1.L.1 Github as a learning tool.md",
     "DOMAIN1 - Security and Risk Management/1.D.7 A Technical Deep Dive into the NIS2 Directive.md",
-    "DOMAIN1 - Security and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
     "DOMAIN1 - Security and Risk Management/1.D.5 Service Level Agreement (SLA).md",
     "DOMAIN1 - Security and Risk Management/1.D.4 Non-Disclosure Agreement (NDA).md",
     "DOMAIN1 - Security and Risk Management/1.D.3 Acceptable Use Policy (AUP).md",
@@ -219,7 +222,6 @@
     "DOMAIN1 - Security and Risk Management/1.11 Apply supply chain risk management (SCRM) concepts.md",
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
     "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
-    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
@@ -231,12 +233,9 @@
     "Gemini_Generated_Image_f2ynukf2ynukf2yn.png",
     "Images/Gemini_Generated_Image_nwij1ynwij1ynwij.png",
     "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "Images",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
-    "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
-    "TOC.md",
     "Images/Screenshot 2026-02-06 184352.png"
   ]
 }
