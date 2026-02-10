@@ -84,3 +84,5 @@
 
 - [3.1 Research, implement, and manage engineering processes using secure design principles](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.1%20Research,%20implement,%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md)
 
+- [3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula)](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.2%20Understand%20the%20fundamental%20concepts%20of%20security%20models%20(e.g.%20Biba,%20Star%20Model,%20Bell%20Lapadula).md)
+
