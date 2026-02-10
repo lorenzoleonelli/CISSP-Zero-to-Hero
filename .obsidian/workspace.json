@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2.3 Provision information and assets securely"
             }
           }
         ],
@@ -201,10 +201,10 @@
   },
   "active": "90f833d220891610",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
-    "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "README.md",
+    "SUMMARY.md",
+    "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "THANKS.md",
     "SUPPORT.md",
     "TOC.md",
