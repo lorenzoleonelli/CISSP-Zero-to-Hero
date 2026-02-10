@@ -1,4 +1,3 @@
-## Dictionary ##
 
 **Access control:** Security measures that limit who can access specific systems, applications, or data. This includes authentication, authorization, and accounting (AAA).
 

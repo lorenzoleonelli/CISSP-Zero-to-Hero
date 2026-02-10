@@ -1,4 +1,3 @@
-## Flashcards ##
 
 1. What are the three main roles in data ownership?
 

@@ -52,28 +52,33 @@
 
 - [FLASHCARDS](DOMAIN1%20-%20Security%20and%20Risk%20Management/FLASHCARDS.md)
 
-[2.1 Identify and classify information and assets](DOMAIN2%20-%20Asset%20Security/2.1%20Identify%20and%20classify%20information%20and%20assets.md)
+---
 
-[2.2 Establish information and asset handling requirements](DOMAIN2%20-%20Asset%20Security/2.2%20Establish%20information%20and%20asset%20handling%20requirements.md)
+- [2.1 Identify and classify information and assets](DOMAIN2%20-%20Asset%20Security/2.1%20Identify%20and%20classify%20information%20and%20assets.md)
 
-[2.3 Provision information and assets securely](DOMAIN2%20-%20Asset%20Security/2.3%20Provision%20information%20and%20assets%20securely.md)
+- [2.2 Establish information and asset handling requirements](DOMAIN2%20-%20Asset%20Security/2.2%20Establish%20information%20and%20asset%20handling%20requirements.md)
 
-[2.4 Manage Data Lifecycle](DOMAIN2%20-%20Asset%20Security/2.4%20Manage%20Data%20Lifecycle.md)
+- [2.3 Provision information and assets securely](DOMAIN2%20-%20Asset%20Security/2.3%20Provision%20information%20and%20assets%20securely.md)
 
-[2.5 Ensure appropriate asset retention](DOMAIN2%20-%20Asset%20Security/2.5%20Ensure%20appropriate%20asset%20retention.md)
+- [2.4 Manage Data Lifecycle](DOMAIN2%20-%20Asset%20Security/2.4%20Manage%20Data%20Lifecycle.md)
 
-[2.6 Determine data security controls and compliance requirements](DOMAIN2%20-%20Asset%20Security/2.6%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md)
+- [2.5 Ensure appropriate asset retention](DOMAIN2%20-%20Asset%20Security/2.5%20Ensure%20appropriate%20asset%20retention.md)
 
-[2.D.1 Mastering Configuration Management - The Hidden Shield of Your IT Security](DOMAIN2%20-%20Asset%20Security/2.D.1%20Mastering%20Configuration%20Management%20-%20The%20Hidden%20Shield%20of%20Your%20IT%20Security.md)
+- [2.6 Determine data security controls and compliance requirements](DOMAIN2%20-%20Asset%20Security/2.6%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md)
 
-[2.D.2 Mobile wallets (e.g., Apple Pay, Google Pay) - tokenization in action](DOMAIN2%20-%20Asset%20Security/2.D.2%20Mobile%20wallets%20(e.g.,%20Apple%20Pay,%20Google%20Pay)%20-%20tokenization%20in%20action.md)
+- [2.D.1 Mastering Configuration Management - The Hidden Shield of Your IT Security](DOMAIN2%20-%20Asset%20Security/2.D.1%20Mastering%20Configuration%20Management%20-%20The%20Hidden%20Shield%20of%20Your%20IT%20Security.md)
 
-[2.D.3 Digital Rights Management](DOMAIN2%20-%20Asset%20Security/2.D.3%20Digital%20Rights%20Management.md)
+- [2.D.2 Mobile wallets (e.g., Apple Pay, Google Pay) - tokenization in action](DOMAIN2%20-%20Asset%20Security/2.D.2%20Mobile%20wallets%20(e.g.,%20Apple%20Pay,%20Google%20Pay)%20-%20tokenization%20in%20action.md)
 
-[2.Q.1 Easy Questions](DOMAIN2%20-%20Asset%20Security/2.Q.1%20Easy%20Questions.md)
+- [2.D.3 Digital Rights Management](DOMAIN2%20-%20Asset%20Security/2.D.3%20Digital%20Rights%20Management.md)
 
-[2.Q.2 Hard Questions](DOMAIN2%20-%20Asset%20Security/2.Q.2%20Hard%20Questions.md)
+- [2.Q.1 Easy Questions](DOMAIN2%20-%20Asset%20Security/2.Q.1%20Easy%20Questions.md)
 
-[DICTIONARY](DOMAIN2%20-%20Asset%20Security/DICTIONARY.md)
+- [2.Q.2 Hard Questions](DOMAIN2%20-%20Asset%20Security/2.Q.2%20Hard%20Questions.md)
 
-[FLASHCARDS](DOMAIN2%20-%20Asset%20Security/FLASHCARDS.md)
+- [DICTIONARY](DOMAIN2%20-%20Asset%20Security/DICTIONARY.md)
+
+- [FLASHCARDS](DOMAIN2%20-%20Asset%20Security/FLASHCARDS.md)
+
+---
+
