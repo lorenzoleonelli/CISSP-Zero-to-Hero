@@ -26,17 +26,6 @@ The CISSP is not a technical vocabulary test; it is an evaluation of your abilit
 
 ---
 
-## 🧭 The Study Methodology
-
-| Pillar | Focus | Strategic Value |
-| :--- | :--- | :--- |
-| 🧠 **Deep Dive** | Conceptual Mastery | Foundational logic you must understand to pass. |
-| 👔 **Managerial View** | Executive Logic | Shifting perspective from Practitioner to Risk Manager. |
-| 💡 **Pro Tip** | Exam & Interview | Tactical shortcuts and real-world application. |
-| 🔗 **External Link** | Standards | Verified sources and regulatory deep-dives. |
-
----
-
 ## 🛠️ Content Structure
 To provide a comprehensive learning experience, each domain is divided into four distinct tracks:
 
@@ -49,7 +38,7 @@ To provide a comprehensive learning experience, each domain is divided into four
 
 **Join the Journey:**
 
- - [View Study Roadmap](TOC.md)
+ - [View Study Roadmap](SUMMARY.md)]
  - [Support](SUPPORT.md)
  - [Community Discussion](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/discussions/)
  - [Thanks to](THANKS.md)
