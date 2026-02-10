@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "2.1 Identify and classify information and assets"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "DOMAIN2 - Asset Security/FLASHCARDS.md",
     "DOMAIN2 - Asset Security/DICTIONARY.md",
-    "SUMMARY.md",
     "DOMAIN2 - Asset Security/2.Q.2 Hard Questions.md",
     "DOMAIN2 - Asset Security/2.Q.1 Easy Questions.md",
     "DOMAIN2 - Asset Security/2.D.3 Digital Rights Management.md",
