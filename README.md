@@ -40,7 +40,6 @@ To provide a comprehensive learning experience, each domain is divided into four
 
  - [View Study Roadmap](SUMMARY.md)
  - [Support](SUPPORT.md)
- - [Community Discussion](https://github.com/lorenzoleonelli/CISSP-Zero-to-Hero/discussions/)
  - [Thanks to](THANKS.md)
 ---
 
