@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
+                "file": "THANKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Manage Data Lifecycle"
+              "title": "THANKS"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
+    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
     "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
-    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
