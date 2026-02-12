@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula)"
+              "title": "3.3 Select Controls based upon system security requirements"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
+    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
