@@ -120,7 +120,7 @@
 
 - [4.1 Apply secure design principles in network architectures](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.1%20Apply%20secure%20design%20principles%20in%20network%20architectures.md)
 
-- [4.02 Secure Network Component](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.02%20Secure%20Network%20Component.md)
+- [4.2 Secure Network Component](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.2%20Secure%20Network%20Component.md)
 
 - [4.03 Implement secure communication channels according to design](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.03%20Implement%20secure%20communication%20channels%20according%20to%20design.md)
 

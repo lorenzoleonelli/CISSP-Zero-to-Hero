@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
+                "file": "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Apply secure design principles in network architectures"
+              "title": "4.2 Secure Network Component"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "44e57a75713881b5",
+  "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "SUMMARY.md",
     "DOMAIN3 - Security Architecture and Engineering/3.10 Manage the information system lifecycle.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
