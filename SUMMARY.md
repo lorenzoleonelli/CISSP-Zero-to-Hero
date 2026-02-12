@@ -92,5 +92,15 @@
 
 - [3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.5%20Assess%20and%20mitigate%20the%20vulnerabilities%20of%20security%20architectures,%20designs%20and%20solution%20elements.md)
 
+- [3.6 Select and determine cryptographic solutions](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.6%20Select%20and%20determine%20cryptographic%20solutions.md)
+
+- [3.7 Understand methods of cryptanalytic attacks](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.7%20Understand%20methods%20of%20cryptanalytic%20attacks.md)
+
+- [3.8 Apply security principles to site and facility design](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.8%20Apply%20security%20principles%20to%20site%20and%20facility%20design.md)
+
+- [3.9 Design site and facility security controls](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.9%20Design%20site%20and%20facility%20security%20controls.md)
+
+- [3.10 Manage the information system lifecycle](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.10%20Manage%20the%20information%20system%20lifecycle.md)
+
 
 
