@@ -102,5 +102,45 @@
 
 - [3.10 Manage the information system lifecycle](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.10%20Manage%20the%20information%20system%20lifecycle.md)
 
+- [3.D.1 System Design Basics](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.D.1%20System%20Design%20Basics.md)
+
+- [3.D.2 Understanding How Common IoT Sensors Work](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.D.2%20Understanding%20How%20Common%20IoT%20Sensors%20Work.md)
+
+- [3.D.3 IP Surveillance Cameras — Technical Overview](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.D.3%20IP%20Surveillance%20Cameras%20—%20Technical%20Overview.md)
+
+- [3.Q.1 Easy Questions](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.Q.1%20Easy%20Questions.md)
+
+- [3.Q.2 Hard Questions](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.Q.2%20Hard%20Questions.md)
+
+- [DICTIONARY](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/DICTIONARY.md)
+
+- [FLASHCARDS](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/FLASHCARDS.md)
+
+---
+
+[4.1 Apply secure design principles in network architectures](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.1%20Apply%20secure%20design%20principles%20in%20network%20architectures.md)
+
+[4.02 Secure Network Component](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.02%20Secure%20Network%20Component.md)
+
+[4.03 Implement secure communication channels according to design](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.03%20Implement%20secure%20communication%20channels%20according%20to%20design.md)
+
+[4.D.1 IPv4 Addressing and Subnetting](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.D.1%20IPv4%20Addressing%20and%20Subnetting.md)
+
+[4.D.2 DNS](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.D.2%20DNS.md)
+
+[4.L.1 First Steps with Wireshark](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.L.1%20First%20Steps%20with%20Wireshark.md)
+
+[4.L.2 Understanding NetFlow, SNMP, and Syslog](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.L.2%20Understanding%20NetFlow,%20SNMP,%20and%20Syslog.md)
+
+[4.Q.1 Easy Questions](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.Q.1%20Easy%20Questions.md)
+
+[4.Q.2 Hard Questions](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.Q.2%20Hard%20Questions.md)
+
+[DICTIONARY](DOMAIN4%20-%20Communication%20and%20Network%20Security/DICTIONARY.md)
+
+[FLASHCARDS](DOMAIN4%20-%20Communication%20and%20Network%20Security/FLASHCARDS.md)
+
+---
+
 
 
