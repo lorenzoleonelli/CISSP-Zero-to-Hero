@@ -86,3 +86,11 @@
 
 - [3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula)](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.2%20Understand%20the%20fundamental%20concepts%20of%20security%20models%20(e.g.%20Biba,%20Star%20Model,%20Bell%20Lapadula).md)
 
+- [3.3 Select Controls based upon system security requirements](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.3%20Select%20Controls%20based%20upon%20system%20security%20requirements.md)
+
+- [3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …)](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.4%20Understand%20Security%20Capabilities%20of%20Information%20Systems%20(e.g.%20memory%20protection,%20TPM,%20…).md)
+
+- [3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.5%20Assess%20and%20mitigate%20the%20vulnerabilities%20of%20security%20architectures,%20designs%20and%20solution%20elements.md)
+
+
+
