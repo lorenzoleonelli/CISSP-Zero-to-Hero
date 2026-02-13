@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN4 - Communication and Network Security/4.Q.2 Hard Questions.md",
+                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Q.2 Hard Questions"
+              "title": "5.1 Control Physical and logical access to assets"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "DOMAIN4 - Communication and Network Security/DICTIONARY.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
     "DOMAIN4 - Communication and Network Security/4.Q.2 Hard Questions.md",
+    "DOMAIN4 - Communication and Network Security/DICTIONARY.md",
     "DOMAIN4 - Communication and Network Security/4.Q.1 Easy Questions.md",
     "DOMAIN4 - Communication and Network Security/4.L.2 Understanding NetFlow, SNMP, and Syslog.md",
     "DOMAIN4 - Communication and Network Security/4.L.1 First Steps with Wireshark.md",
@@ -195,8 +196,7 @@
     "DOMAIN4 - Communication and Network Security/4.D.1 IPv4 Addressing and Subnetting.md",
     "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
     "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.01 Control Physical and logical access to assets.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
     "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
     "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
