@@ -142,5 +142,55 @@
 
 ---
 
+- [5.0 Preface](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.0%20Preface.md)
 
+- [5.1 Control Physical and logical access to assets](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.1%20Control%20Physical%20and%20logical%20access%20to%20assets.md)
+
+- [5.2 Design identification and authentication strategy (e.g. people, devices and services)](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.2%20Design%20identification%20and%20authentication%20strategy%20(e.g.%20people,%20devices%20and%20services).md)
+
+- [5.3 Federated identity with a third-party service](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.3%20Federated%20identity%20with%20a%20third-party%20service.md)
+
+- [5.4 Implement and manage authorization mechanisms](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.4%20Implement%20and%20manage%20authorization%20mechanisms.md)
+
+- [5.5 Manage the identity and access provisioning lifecycle](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.5%20Manage%20the%20identity%20and%20access%20provisioning%20lifecycle.md)
+
+- [5.6 Implement authentication systems](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.6%20Implement%20authentication%20systems.md)
+
+- [5.D.1 FIDO and FIDO2 - Revolutionizing Authentication](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.D.1%20FIDO%20and%20FIDO2%20-%20Revolutionizing%20Authentication.md)
+
+- [5.D.2 Recap of NIST Special Publication (SP) 800-63B-4, Digital Identity Guidelines - Authentication and Authenticator Management](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.D.2%20Recap%20of%20NIST%20Special%20Publication%20(SP)%20800-63B-4,%20Digital%20Identity%20Guidelines%20-%20Authentication%20and%20Authenticator%20Management.md)
+
+- [5.Q.1 Easy Questions](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.Q.1%20Easy%20Questions.md)
+
+- [5.Q.2 Hard Questions](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.Q.2%20Hard%20Questions.md)
+
+- [DICTIONARY](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/DICTIONARY.md)
+
+- [FLASHCARDS](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/FLASHCARDS.md)
+
+---
+
+[6.1 Design and validate assessment, test, and audit strategy](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.1%20Design%20and%20validate%20assessment,%20test,%20and%20audit%20strategy.md)
+
+[6.2 Conduct security controls testing](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.2%20Conduct%20security%20controls%20testing.md)
+
+[6.3 Collect security process data (e.g., technical and administrative)](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.3%20Collect%20security%20process%20data%20(e.g.,%20technical%20and%20administrative).md)
+
+[6.4 Analyze test output and generate report](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.4%20Analyze%20test%20output%20and%20generate%20report.md)
+
+[6.5 Conduct or facilitate security audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.5%20Conduct%20or%20facilitate%20security%20audits.md)
+
+[6.D.1 ISO 19011 - The Unsung Hero of InfoSec Audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.1%20ISO%2019011%20-%20The%20Unsung%20Hero%20of%20InfoSec%20Audits.md)
+
+[6.D.2 The Hidden Diary of Hackers - Understanding CVEs](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.2%20The%20Hidden%20Diary%20of%20Hackers%20-%20Understanding%20CVEs.md)
+
+[6.Q.1 Easy Questions](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.Q.1%20Easy%20Questions.md)
+
+[6.Q.2 Hard Questions](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.Q.2%20Hard%20Questions.md)
+
+[DICTIONARY](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/DICTIONARY.md)
+
+[FLASHCARDS](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/FLASHCARDS.md)
+
+---
 

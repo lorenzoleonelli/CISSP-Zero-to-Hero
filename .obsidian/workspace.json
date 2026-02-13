@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.5 Manage the identity and access provisioning lifecycle"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -186,16 +186,24 @@
   },
   "active": "020b9db62f6bf9b9",
   "lastOpenFiles": [
-    "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.3 Federated identity with a third-party service.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/FLASHCARDS.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/DICTIONARY.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.Q.2 Hard Questions.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.Q.1 Easy Questions.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.D.2 Recap of NIST Special Publication (SP) 800-63B-4, Digital Identity Guidelines - Authentication and Authenticator Management.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.2 Design identification and authentication strategy (e.g. people, devices and services).md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.D.1 FIDO and FIDO2 - Revolutionizing Authentication.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.3 Federated identity with a third-party service.md",
     "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
     "DOMAIN4 - Communication and Network Security/4.Q.2 Hard Questions.md",
     "DOMAIN4 - Communication and Network Security/DICTIONARY.md",
     "DOMAIN4 - Communication and Network Security/4.Q.1 Easy Questions.md",
@@ -204,14 +212,6 @@
     "DOMAIN4 - Communication and Network Security/4.D.2 DNS.md",
     "DOMAIN4 - Communication and Network Security/4.D.1 IPv4 Addressing and Subnetting.md",
     "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
-    "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
-    "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
-    "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
-    "SUMMARY.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.10 Manage the information system lifecycle.md",
-    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
     "Images/Pasted image 20260210211301.png",
     "DOMAIN1 - Security and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
     "Images/Gemini_Generated_Image_51x6ec51x6ec51x6.png",
