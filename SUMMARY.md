@@ -122,7 +122,7 @@
 
 - [4.2 Secure Network Component](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.2%20Secure%20Network%20Component.md)
 
-- [4.03 Implement secure communication channels according to design](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.03%20Implement%20secure%20communication%20channels%20according%20to%20design.md)
+- [4.3 Implement secure communication channels according to design](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.3%20Implement%20secure%20communication%20channels%20according%20to%20design.md)
 
 - [4.D.1 IPv4 Addressing and Subnetting](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.D.1%20IPv4%20Addressing%20and%20Subnetting.md)
 
