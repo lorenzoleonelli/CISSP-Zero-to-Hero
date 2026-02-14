@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
+                "file": "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1 Design and validate assessment, test, and audit strategy"
+              "title": "6.2 Conduct security controls testing"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "3d6393269181893c",
   "lastOpenFiles": [
+    "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
+    "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
     "Untitled.base",
     "2026-02-13.md",
     "Untitled.canvas",
-    "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
     "SUMMARY.md",
     "DOMAIN5 - Identity and Access Management (IAM)/FLASHCARDS.md",
     "DOMAIN5 - Identity and Access Management (IAM)/DICTIONARY.md",
