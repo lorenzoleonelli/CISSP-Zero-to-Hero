@@ -170,27 +170,87 @@
 
 ---
 
-[6.1 Design and validate assessment, test, and audit strategy](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.1%20Design%20and%20validate%20assessment,%20test,%20and%20audit%20strategy.md)
+- [6.1 Design and validate assessment, test, and audit strategy](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.1%20Design%20and%20validate%20assessment,%20test,%20and%20audit%20strategy.md)
 
-[6.2 Conduct security controls testing](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.2%20Conduct%20security%20controls%20testing.md)
+- [6.2 Conduct security controls testing](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.2%20Conduct%20security%20controls%20testing.md)
 
-[6.3 Collect security process data (e.g., technical and administrative)](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.3%20Collect%20security%20process%20data%20(e.g.,%20technical%20and%20administrative).md)
+- [6.3 Collect security process data (e.g., technical and administrative)](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.3%20Collect%20security%20process%20data%20(e.g.,%20technical%20and%20administrative).md)
 
-[6.4 Analyze test output and generate report](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.4%20Analyze%20test%20output%20and%20generate%20report.md)
+- [6.4 Analyze test output and generate report](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.4%20Analyze%20test%20output%20and%20generate%20report.md)
 
-[6.5 Conduct or facilitate security audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.5%20Conduct%20or%20facilitate%20security%20audits.md)
+- [6.5 Conduct or facilitate security audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.5%20Conduct%20or%20facilitate%20security%20audits.md)
 
-[6.D.1 ISO 19011 - The Unsung Hero of InfoSec Audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.1%20ISO%2019011%20-%20The%20Unsung%20Hero%20of%20InfoSec%20Audits.md)
+- [6.D.1 ISO 19011 - The Unsung Hero of InfoSec Audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.1%20ISO%2019011%20-%20The%20Unsung%20Hero%20of%20InfoSec%20Audits.md)
 
-[6.D.2 The Hidden Diary of Hackers - Understanding CVEs](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.2%20The%20Hidden%20Diary%20of%20Hackers%20-%20Understanding%20CVEs.md)
+- [6.D.2 The Hidden Diary of Hackers - Understanding CVEs](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.2%20The%20Hidden%20Diary%20of%20Hackers%20-%20Understanding%20CVEs.md)
 
-[6.Q.1 Easy Questions](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.Q.1%20Easy%20Questions.md)
+- [6.Q.1 Easy Questions](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.Q.1%20Easy%20Questions.md)
 
-[6.Q.2 Hard Questions](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.Q.2%20Hard%20Questions.md)
+- [6.Q.2 Hard Questions](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.Q.2%20Hard%20Questions.md)
 
-[DICTIONARY](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/DICTIONARY.md)
+- [DICTIONARY](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/DICTIONARY.md)
 
-[FLASHCARDS](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/FLASHCARDS.md)
+- [FLASHCARDS](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/FLASHCARDS.md)
 
 ---
+
+- [7.01 Understand and comply with investigations](DOMAIN7%20-%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md)
+
+- [7.02 Conduct logging and monitoring activities](DOMAIN7%20-%20Security%20Operations/7.02%20Conduct%20logging%20and%20monitoring%20activities.md)
+
+- [7.03 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation)](DOMAIN7%20-%20Security%20Operations/7.03%20Perform%20Configuration%20Management%20(CM)%20(e.g.,%20provisioning,%20baselining,%20automation).md)
+
+- [7.04 Apply foundational security operations concepts](DOMAIN7%20-%20Security%20Operations/7.04%20Apply%20foundational%20security%20operations%20concepts.md)
+
+- [7.05 Apply resource protection](DOMAIN7%20-%20Security%20Operations/7.05%20Apply%20resource%20protection.md)
+
+- [7.06 Conduct incident management](DOMAIN7%20-%20Security%20Operations/7.06%20Conduct%20incident%20management.md)
+
+- [7.07 Operate and maintain detection and preventative measures](DOMAIN7%20-%20Security%20Operations/7.07%20Operate%20and%20maintain%20detection%20and%20preventative%20measures.md)
+
+- [7.08 Implement and support patch and vulnerability management](DOMAIN7%20-%20Security%20Operations/7.08%20Implement%20and%20support%20patch%20and%20vulnerability%20management.md)
+
+- [7.09 Understand and participate in change management processes](DOMAIN7%20-%20Security%20Operations/7.09%20Understand%20and%20participate%20in%20change%20management%20processes.md)
+
+- [7.10 Implement Recovery Strategies](DOMAIN7%20-%20Security%20Operations/7.10%20Implement%20Recovery%20Strategies.md)
+
+- [7.11 Implement Disaster Recovery (DR) Processes](DOMAIN7%20-%20Security%20Operations/7.11%20Implement%20Disaster%20Recovery%20(DR)%20Processes.md)
+
+- [7.12 Test Disaster Recovery Plan (DRP)](DOMAIN7%20-%20Security%20Operations/7.12%20Test%20Disaster%20Recovery%20Plan%20(DRP).md)
+
+- [7.13 Participate in Business Continuity Planning and exercises](DOMAIN7%20-%20Security%20Operations/7.13%20Participate%20in%20Business%20Continuity%20Planning%20and%20exercises.md)
+
+- [7.14 Implement and manage physical security](DOMAIN7%20-%20Security%20Operations/7.14%20Implement%20and%20manage%20physical%20security.md)
+
+- [7.15 Address personnel safety and security concerns](DOMAIN7%20-%20Security%20Operations/7.15%20Address%20personnel%20safety%20and%20security%20concerns.md)
+
+- [7.Q.1 Easy Questions](DOMAIN7%20-%20Security%20Operations/7.Q.1%20Easy%20Questions.md)
+
+- [7.Q.2 Hard Questions](DOMAIN7%20-%20Security%20Operations/7.Q.2%20Hard%20Questions.md)
+
+- [DICTIONARY](DOMAIN7%20-%20Security%20Operations/DICTIONARY.md)
+
+- [FLASHCARDS](DOMAIN7%20-%20Security%20Operations/FLASHCARDS.md)
+
+---
+
+- [8.1 - Understand and integrate security in the Software Development Life Cycle (SDLC)](DOMAIN8%20-%20Software%20Development%20Security/8.1%20-%20Understand%20and%20integrate%20security%20in%20the%20Software%20Development%20Life%20Cycle%20(SDLC).md)
+
+- [8.2 - Identify and apply security controls in software development ecosystems](DOMAIN8%20-%20Software%20Development%20Security/8.2%20-%20Identify%20and%20apply%20security%20controls%20in%20software%20development%20ecosystems.md)
+
+- [8.3 - Assess the effectiveness of software security](DOMAIN8%20-%20Software%20Development%20Security/8.3%20-%20Assess%20the%20effectiveness%20of%20software%20security.md)
+
+- [8.4 - Assess security impact of acquired software](DOMAIN8%20-%20Software%20Development%20Security/8.4%20-%20Assess%20security%20impact%20of%20acquired%20software.md)
+
+- [8.5 - Define and apply secure coding guidelines and standards](DOMAIN8%20-%20Software%20Development%20Security/8.5%20-%20Define%20and%20apply%20secure%20coding%20guidelines%20and%20standards.md)
+
+- [8.D.1 Databases Basics](DOMAIN8%20-%20Software%20Development%20Security/8.D.1%20Databases%20Basics.md)
+
+- [8.Q.1 Easy Questions](DOMAIN8%20-%20Software%20Development%20Security/8.Q.1%20Easy%20Questions.md)
+
+- [8.Q.2 Hard Questions](DOMAIN8%20-%20Software%20Development%20Security/8.Q.2%20Hard%20Questions.md)
+
+- [DICTIONARY](DOMAIN8%20-%20Software%20Development%20Security/DICTIONARY.md)
+
+- [FLASHCARDS](DOMAIN8%20-%20Software%20Development%20Security/FLASHCARDS.md)
 
