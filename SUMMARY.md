@@ -194,23 +194,23 @@
 
 ---
 
-- [7.01 Understand and comply with investigations](DOMAIN7%20-%20Security%20Operations/7.01%20Understand%20and%20comply%20with%20investigations.md)
+- [7.1 Understand and comply with investigations](DOMAIN7%20-%20Security%20Operations/7.1%20Understand%20and%20comply%20with%20investigations.md)
 
-- [7.02 Conduct logging and monitoring activities](DOMAIN7%20-%20Security%20Operations/7.02%20Conduct%20logging%20and%20monitoring%20activities.md)
+- [7.2 Conduct logging and monitoring activities](DOMAIN7%20-%20Security%20Operations/7.2%20Conduct%20logging%20and%20monitoring%20activities.md)
 
-- [7.03 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation)](DOMAIN7%20-%20Security%20Operations/7.03%20Perform%20Configuration%20Management%20(CM)%20(e.g.,%20provisioning,%20baselining,%20automation).md)
+- [7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation)](DOMAIN7%20-%20Security%20Operations/7.3%20Perform%20Configuration%20Management%20(CM)%20(e.g.,%20provisioning,%20baselining,%20automation).md)
 
-- [7.04 Apply foundational security operations concepts](DOMAIN7%20-%20Security%20Operations/7.04%20Apply%20foundational%20security%20operations%20concepts.md)
+- [7.4 Apply foundational security operations concepts](DOMAIN7%20-%20Security%20Operations/7.4%20Apply%20foundational%20security%20operations%20concepts.md)
 
-- [7.05 Apply resource protection](DOMAIN7%20-%20Security%20Operations/7.05%20Apply%20resource%20protection.md)
+- [7.5 Apply resource protection](DOMAIN7%20-%20Security%20Operations/7.5%20Apply%20resource%20protection.md)
 
-- [7.06 Conduct incident management](DOMAIN7%20-%20Security%20Operations/7.06%20Conduct%20incident%20management.md)
+- [7.6 Conduct incident management](DOMAIN7%20-%20Security%20Operations/7.6%20Conduct%20incident%20management.md)
 
-- [7.07 Operate and maintain detection and preventative measures](DOMAIN7%20-%20Security%20Operations/7.07%20Operate%20and%20maintain%20detection%20and%20preventative%20measures.md)
+- [7.7 Operate and maintain detection and preventative measures](DOMAIN7%20-%20Security%20Operations/7.7%20Operate%20and%20maintain%20detection%20and%20preventative%20measures.md)
 
-- [7.08 Implement and support patch and vulnerability management](DOMAIN7%20-%20Security%20Operations/7.08%20Implement%20and%20support%20patch%20and%20vulnerability%20management.md)
+- [7.8 Implement and support patch and vulnerability management](DOMAIN7%20-%20Security%20Operations/7.8%20Implement%20and%20support%20patch%20and%20vulnerability%20management.md)
 
-- [7.09 Understand and participate in change management processes](DOMAIN7%20-%20Security%20Operations/7.09%20Understand%20and%20participate%20in%20change%20management%20processes.md)
+- [7.9 Understand and participate in change management processes](DOMAIN7%20-%20Security%20Operations/7.9%20Understand%20and%20participate%20in%20change%20management%20processes.md)
 
 - [7.10 Implement Recovery Strategies](DOMAIN7%20-%20Security%20Operations/7.10%20Implement%20Recovery%20Strategies.md)
 
