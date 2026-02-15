@@ -41,8 +41,9 @@ To provide a comprehensive learning experience, each domain is divided into four
  - [View Study Roadmap](SUMMARY.md)
  - [Support](SUPPORT.md)
  - [Thanks to](THANKS.md)
+ - [License](LICENSE.md)
 ---
 
 <div align="center">
-  ⚖️ <a href="LICENSE.md" style="color: #616161;">MIT License</a> • ⭐ Star this repo to support the mission
+   ⭐ Star this repo to support the mission
 </div>
