@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "7.2 Conduct logging and monitoring activities"
             }
+          },
+          {
+            "id": "f86ba1f381d3e576",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +200,10 @@
   },
   "active": "44e57a75713881b5",
   "lastOpenFiles": [
-    "excalibrain.md",
     "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
+    "Excalidraw/Drawing 2026-02-15 21.12.49.excalidraw.md",
+    "Excalidraw",
+    "excalibrain.md",
     "README.md",
     "LICENSE.md",
     "2026-02-13.md",
@@ -214,7 +229,6 @@
     "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
     "Untitled.base",
     "DOMAIN5 - Identity and Access Management (IAM)/FLASHCARDS.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/DICTIONARY.md",
     "Images/Pasted image 20260210211301.png",
     "DOMAIN1 - Security and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
     "Images/Gemini_Generated_Image_51x6ec51x6ec51x6.png",
