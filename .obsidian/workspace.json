@@ -25,12 +25,14 @@
             "id": "f86ba1f381d3e576",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalibrain.md"
+                "file": "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "icon": "lucide-file",
+              "title": "7.2 Conduct logging and monitoring activities"
             }
           }
         ],
@@ -91,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 323.5
   },
   "right": {
     "id": "db505af342400a6f",
@@ -198,14 +200,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44e57a75713881b5",
+  "active": "f86ba1f381d3e576",
   "lastOpenFiles": [
-    "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
-    "Excalidraw/Drawing 2026-02-15 21.12.49.excalidraw.md",
-    "Excalidraw",
-    "excalibrain.md",
     "README.md",
     "LICENSE.md",
+    "Excalidraw/Drawing 2026-02-15 21.12.49.excalidraw.md",
+    "excalibrain.md",
+    "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
+    "Excalidraw",
     "2026-02-13.md",
     "Untitled.canvas",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",

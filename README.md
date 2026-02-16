@@ -1,7 +1,7 @@
 <div align="center">
 
 # CISSP: ZERO TO HERO
-### The Definitive Roadmap to the Managerial Mindset
+### Comprehensive CISSP knowledge base covering all 8 domains. Includes mind maps, practice questions, and managerial mindset tips for the 2024/2026 exam update
 
 <img src="https://github.com/user-attachments/assets/14e44ba0-524d-4712-ba5e-2bb16cd02ab9" alt="Lorenzo Leonelli" width="220" style="border-radius: 50%; border: 5px solid #009688; margin: 20px 0;">
 
@@ -47,3 +47,5 @@ To provide a comprehensive learning experience, each domain is divided into four
 <div align="center">
    ⭐ Star this repo to support the mission
 </div>
+
+`#cissp`, `#cybersecurity`, `#infosec`, `#cissp-study-guide`, `#isc2`, `#security-governance`, `#cloud-security`
