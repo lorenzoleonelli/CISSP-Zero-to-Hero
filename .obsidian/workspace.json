@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2 Conduct logging and monitoring activities"
+              "title": "1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)"
             }
           }
         ],
@@ -202,11 +202,12 @@
   },
   "active": "f86ba1f381d3e576",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
+    "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "README.md",
     "LICENSE.md",
     "Excalidraw/Drawing 2026-02-15 21.12.49.excalidraw.md",
     "excalibrain.md",
-    "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "Excalidraw",
     "2026-02-13.md",
     "Untitled.canvas",
@@ -218,7 +219,6 @@
     "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
-    "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
     "SUMMARY.md",
     "DOMAIN6 - Security Assessment and Testing/6.Q.2 Hard Questions.md",
     "DOMAIN6 - Security Assessment and Testing/6.Q.1 Easy Questions.md",
