@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
+                "file": "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.8 Implement and support patch and vulnerability management"
+              "title": "7.10 Implement Recovery Strategies"
             }
           }
         ],
@@ -202,6 +202,8 @@
   },
   "active": "f86ba1f381d3e576",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
+    "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
     "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
@@ -219,8 +221,6 @@
     "Untitled.canvas",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
-    "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
-    "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
     "SUMMARY.md",
     "DOMAIN6 - Security Assessment and Testing/6.Q.2 Hard Questions.md",
     "DOMAIN6 - Security Assessment and Testing/6.Q.1 Easy Questions.md",
