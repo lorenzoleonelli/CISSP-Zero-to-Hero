@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
+                "file": "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Apply foundational security operations concepts"
+              "title": "7.6 Conduct incident management"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "f86ba1f381d3e576",
   "lastOpenFiles": [
-    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+    "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
+    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
     "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
@@ -220,7 +221,6 @@
     "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
     "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
-    "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
     "SUMMARY.md",
     "DOMAIN6 - Security Assessment and Testing/6.Q.2 Hard Questions.md",
     "DOMAIN6 - Security Assessment and Testing/6.Q.1 Easy Questions.md",
