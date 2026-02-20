@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN8 - Software Development Security/FLASHCARDS.md",
+                "file": "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FLASHCARDS"
+              "title": "7.1 Understand and comply with investigations"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "f86ba1f381d3e576",
   "lastOpenFiles": [
+    "DOMAIN8 - Software Development Security/FLASHCARDS.md",
     "DOMAIN8 - Software Development Security/DICTIONARY.md",
     "DOMAIN8 - Software Development Security/8.Q.2 Hard Questions.md",
     "DOMAIN8 - Software Development Security/8.Q.1 Easy Questions.md",
@@ -227,7 +228,6 @@
     "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
-    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
