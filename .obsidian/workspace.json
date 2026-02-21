@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d6393269181893c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.2 Conduct logging and monitoring activities"
-            }
-          },
-          {
             "id": "f86ba1f381d3e576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1 Design and validate assessment, test, and audit strategy"
+              "title": "SUMMARY"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,6 +187,7 @@
   },
   "active": "f86ba1f381d3e576",
   "lastOpenFiles": [
+    "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
     "DOMAIN8 - Software Development Security/FLASHCARDS.md",
@@ -227,7 +213,6 @@
     "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
     "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
-    "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",

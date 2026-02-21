@@ -254,3 +254,10 @@
 
 - [FLASHCARDS](DOMAIN8%20-%20Software%20Development%20Security/FLASHCARDS.md)
 
+---
+
+- [LICENSE](LICENSE.md)
+
+- [SUPPORT](SUPPORT.md)
+
+- [THANKS](THANKS.md)
