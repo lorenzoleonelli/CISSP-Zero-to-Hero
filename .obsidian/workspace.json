@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Apply foundational security operations concepts"
+              "title": "1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "51d2066f41f9f871",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
     "SUMMARY.md",
@@ -212,7 +213,6 @@
     "DOMAIN3 - Security Architecture and Engineering/3.Q.2 Hard Questions.md",
     "DOMAIN3 - Security Architecture and Engineering/3.Q.1 Easy Questions.md",
     "DOMAIN7 - Security Operations/7.12 Test Disaster Recovery Plan (DRP).md",
-    "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
