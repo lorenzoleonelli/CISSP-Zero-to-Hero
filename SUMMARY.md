@@ -12,7 +12,7 @@
 
 - [1.6 Develop, document, and implement security policy, standards, procedures, and guidelines](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.6%20Develop,%20document,%20and%20implement%20security%20policy,%20standards,%20procedures,%20and%20guidelines.md)
 
-- [1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.7%20Identify,%20analyze,%20assess,%20prioritize,%20and%20implement%20Business%20Continuity%20(BC)%20requirements.md)
+- [](DOMAIN1%20-%20Security%20and%20Risk%20Management/#%201.7%20Identify,%20analyze,%20assess,%20prioritize,%20and%20implement%20Business%20Continuity%20(BC)%20requirements%20#.md)
 
 - [1.8 Contribute to and enforce personnel security policies and procedures](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.8%20Contribute%20to%20and%20enforce%20personnel%20security%20policies%20and%20procedures.md)
 

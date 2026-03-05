@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements"
+              "title": "1.8 Contribute to and enforce personnel security policies and procedures"
             }
           }
         ]
@@ -187,9 +187,14 @@
   },
   "active": "51d2066f41f9f871",
   "lastOpenFiles": [
-    "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
+    "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
+    "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
+    "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
+    "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
+    "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
     "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
+    "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
     "SUMMARY.md",
     "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
@@ -208,11 +213,6 @@
     "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
     "DOMAIN7 - Security Operations/7.14 Implement and manage physical security.md",
     "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
-    "DOMAIN7 - Security Operations/7.11 Implement Disaster Recovery (DR) Processes.md",
-    "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.Q.2 Hard Questions.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.Q.1 Easy Questions.md",
-    "DOMAIN7 - Security Operations/7.12 Test Disaster Recovery Plan (DRP).md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
