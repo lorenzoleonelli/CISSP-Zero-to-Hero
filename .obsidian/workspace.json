@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
+                "file": "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.9 Understand and apply risk management concepts"
+              "title": "7.5 Apply resource protection"
             }
           }
         ],
@@ -202,9 +202,10 @@
   },
   "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
+    "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
     "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
     "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
-    "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
     "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
@@ -212,7 +213,6 @@
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
     "SUMMARY.md",
     "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
-    "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "DOMAIN8 - Software Development Security/FLASHCARDS.md",
     "DOMAIN8 - Software Development Security/DICTIONARY.md",
     "DOMAIN8 - Software Development Security/8.Q.2 Hard Questions.md",
