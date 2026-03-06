@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
+                "file": "DOMAIN8 - Software Development Security/8.2 - Identify and apply security controls in software development ecosystems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.5 Apply resource protection"
+              "title": "8.2 - Identify and apply security controls in software development ecosystems"
             }
           }
         ],
@@ -202,6 +202,9 @@
   },
   "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
+    "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
+    "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
     "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
@@ -225,9 +228,6 @@
     "DOMAIN8 - Software Development Security/8.1 - Understand and integrate security in the Software Development Life Cycle (SDLC).md",
     "DOMAIN7 - Security Operations/7.Q.2 Hard Questions.md",
     "DOMAIN7 - Security Operations/7.Q.1 Easy Questions.md",
-    "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
-    "DOMAIN7 - Security Operations/7.14 Implement and manage physical security.md",
-    "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
