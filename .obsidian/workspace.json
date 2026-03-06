@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8 Contribute to and enforce personnel security policies and procedures"
+              "title": "1.9 Understand and apply risk management concepts"
+            }
+          },
+          {
+            "id": "3cf5c1c4e3909e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.9 Understand and apply risk management concepts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -174,22 +189,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51d2066f41f9f871",
+  "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
+    "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
     "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
-    "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
     "DOMAIN1 - Security and Risk Management/1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
