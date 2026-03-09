@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.6 Conduct incident management"
+              "title": "1.8 Contribute to and enforce personnel security policies and procedures"
             }
           }
         ],
@@ -202,6 +202,9 @@
   },
   "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
+    "personnel_security.png",
+    "THANKS.md",
+    "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
     "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
     "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
@@ -225,9 +228,6 @@
     "DOMAIN8 - Software Development Security/8.Q.2 Hard Questions.md",
     "DOMAIN8 - Software Development Security/8.Q.1 Easy Questions.md",
     "DOMAIN8 - Software Development Security/8.D.1 Databases Basics.md",
-    "DOMAIN8 - Software Development Security/8.5 - Define and apply secure coding guidelines and standards.md",
-    "DOMAIN8 - Software Development Security/8.4 - Assess security impact of acquired software.md",
-    "DOMAIN8 - Software Development Security/8.3 - Assess the effectiveness of software security.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
