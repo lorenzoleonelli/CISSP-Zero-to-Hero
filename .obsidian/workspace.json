@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THANKS.md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THANKS"
+              "title": "3.1 Research, implement, and manage engineering processes using secure design principles"
             }
           },
           {
@@ -216,6 +216,7 @@
   },
   "active": "cbb208337617fc89",
   "lastOpenFiles": [
+    "THANKS.md",
     "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
     "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
     "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
@@ -233,7 +234,6 @@
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
     "DOMAIN1 - Security and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
     "personnel_security.png",
-    "THANKS.md",
     "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
     "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
