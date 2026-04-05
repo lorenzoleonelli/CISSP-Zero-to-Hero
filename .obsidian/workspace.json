@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.7 Understand methods of cryptanalytic attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements"
+              "title": "3.7 Understand methods of cryptanalytic attacks"
             }
           }
         ],
@@ -202,17 +202,17 @@
   },
   "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
+    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.7 Understand methods of cryptanalytic attacks.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.6 Select and determine cryptographic solutions.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "DOMAIN3 - Security Architecture and Engineering/3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …).md",
     "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
     "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
     "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
     "DOMAIN3 - Security Architecture and Engineering/3.D.1 System Design Basics.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "THANKS.md",
     "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.7 Understand methods of cryptanalytic attacks.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.6 Select and determine cryptographic solutions.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "SUMMARY.md",
