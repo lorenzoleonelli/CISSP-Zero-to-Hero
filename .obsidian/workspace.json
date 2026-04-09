@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.7 Understand methods of cryptanalytic attacks.md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.7 Understand methods of cryptanalytic attacks"
+              "title": "3.9 Design site and facility security controls"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
-    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN3 - Security Architecture and Engineering/3.7 Understand methods of cryptanalytic attacks.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN3 - Security Architecture and Engineering/3.6 Select and determine cryptographic solutions.md",
     "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "DOMAIN3 - Security Architecture and Engineering/3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …).md",
