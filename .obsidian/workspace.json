@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
+                "file": "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.9 Design site and facility security controls"
+              "title": "4.1 Apply secure design principles in network architectures"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kerberos",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cf5c1c4e3909e36",
+  "active": "4f7371432092b349",
   "lastOpenFiles": [
+    "DOMAIN3 - Security Architecture and Engineering/3.10 Manage the information system lifecycle.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
     "DOMAIN3 - Security Architecture and Engineering/3.7 Understand methods of cryptanalytic attacks.md",
     "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN3 - Security Architecture and Engineering/3.6 Select and determine cryptographic solutions.md",
@@ -212,7 +215,6 @@
     "DOMAIN1 - Security and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
     "DOMAIN3 - Security Architecture and Engineering/3.D.1 System Design Basics.md",
     "THANKS.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "SUMMARY.md",
@@ -228,7 +230,6 @@
     "DOMAIN8 - Software Development Security/8.2 - Identify and apply security controls in software development ecosystems.md",
     "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
     "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
-    "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
