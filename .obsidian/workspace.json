@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.0 Preface"
+              "title": "README"
             }
           }
         ],
@@ -202,6 +202,11 @@
   },
   "active": "3cf5c1c4e3909e36",
   "lastOpenFiles": [
+    "SUPPORT.md",
+    "README.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
+    "SUMMARY.md",
     "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
     "DOMAIN3 - Security Architecture and Engineering/3.10 Manage the information system lifecycle.md",
     "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
@@ -217,7 +222,6 @@
     "THANKS.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
-    "SUMMARY.md",
     "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
@@ -225,10 +229,6 @@
     "personnel_security.png",
     "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
-    "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
-    "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
-    "DOMAIN8 - Software Development Security/8.2 - Identify and apply security controls in software development ecosystems.md",
-    "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",

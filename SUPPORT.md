@@ -21,7 +21,7 @@ Your comments and reactions on my posts really help spread quality educational c
 ### ☕ Support My Work
 
 Creating high-quality study material takes time and passion.  
-If you’d like to support this initiative and help me keep sharing free CISSP and PMP resources, you can make a small donation here:  
+If you’d like to support this initiative and help me keep sharing free CISSP resources, you can make a small donation here:  
 
 👉 [**Make a Donation**](https://www.paypal.com/donate/?business=lorenzoleonelli@hotmail.com&currency_code=USD&item_name=Support+CISSP+Zero+to+Hero&amount=3.50)
 
