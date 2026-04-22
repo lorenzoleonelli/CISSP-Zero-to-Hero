@@ -52,4 +52,6 @@ To provide a comprehensive learning experience, each domain is divided into four
 If this content helped you, consider a small donation ☕  
 👉 [Donate here](https://www.paypal.com/donate/?business=lorenzoleonelli@hotmail.com&currency_code=USD&item_name=Support+CISSP+Zero+to+Hero&amount=3.50)
 
+---
+
 `#cissp`, `#cybersecurity`, `#infosec`, `#cissp-study-guide`, `#isc2`, `#security-governance`, `#cloud-security`
