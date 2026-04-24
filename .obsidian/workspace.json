@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SNMP",
+                "query": "SYN",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51d2066f41f9f871",
+  "active": "4f7371432092b349",
   "lastOpenFiles": [
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
     "README.md",
