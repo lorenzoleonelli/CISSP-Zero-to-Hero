@@ -24,6 +24,8 @@
 
 - [1.12 Establish and maintain a security awareness, education, and training program](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.12%20Establish%20and%20maintain%20a%20security%20awareness,%20education,%20and%20training%20program.md)
 
+- [1.13 AI Governance, Ethics, and Strategic Risk Integration](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.13%20AI%20Governance,%20Ethics,%20and%20Strategic%20Risk%20Integration.md)
+
 - [1.D.1 How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.1%20How%20Service%20Owners,%20Legal%20Teams,%20CISOs,%20and%20Privacy%20Officers%20Can%20Collaborate%20Effectively%20Without%20Getting%20Stuck.md)
 
 - [1.D.2 Understanding Patents, Copyrights, and Trademarks (Without Falling Asleep)](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.2%20Understanding%20Patents,%20Copyrights,%20and%20Trademarks%20(Without%20Falling%20Asleep).md)
@@ -65,6 +67,8 @@
 - [2.5 Ensure appropriate asset retention](DOMAIN2%20-%20Asset%20Security/2.5%20Ensure%20appropriate%20asset%20retention.md)
 
 - [2.6 Determine data security controls and compliance requirements](DOMAIN2%20-%20Asset%20Security/2.6%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md)
+
+- [2.7 Asset Security in the Age of AI](DOMAIN2%20-%20Asset%20Security/2.7%20Asset%20Security%20in%20the%20Age%20of%20AI.md)
 
 - [2.D.1 Mastering Configuration Management - The Hidden Shield of Your IT Security](DOMAIN2%20-%20Asset%20Security/2.D.1%20Mastering%20Configuration%20Management%20-%20The%20Hidden%20Shield%20of%20Your%20IT%20Security.md)
 
