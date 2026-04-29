@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "1.13 AI Governance, Ethics, and Strategic Risk Integration"
             }
           }
         ],
@@ -216,9 +216,9 @@
   },
   "active": "facc13606200c763",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
     "DOMAIN1 - Security and Risk Management/1.12 Establish and maintain a security awareness, education, and training program.md",
-    "SUMMARY.md",
     "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
