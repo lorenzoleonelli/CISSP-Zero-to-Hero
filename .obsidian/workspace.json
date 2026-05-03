@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.11 Architecting Trust – Engineering Secure AI Environments.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.11 Architecting Trust – Engineering Secure AI Environments"
+              "title": "1.13 AI Governance, Ethics, and Strategic Risk Integration"
             }
           }
         ],
@@ -230,10 +230,10 @@
   },
   "active": "1172403ebaaa13f0",
   "lastOpenFiles": [
-    "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.11 Architecting Trust – Engineering Secure AI Environments.md",
-    "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
     "SUMMARY.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.11 Architecting Trust – Engineering Secure AI Environments.md",
+    "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
+    "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
     "DOMAIN1 - Security and Risk Management/1.12 Establish and maintain a security awareness, education, and training program.md",
     "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",

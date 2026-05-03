@@ -24,7 +24,7 @@
 
 - [1.12 Establish and maintain a security awareness, education, and training program](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.12%20Establish%20and%20maintain%20a%20security%20awareness,%20education,%20and%20training%20program.md)
 
-- [](DOMAIN1%20-%20Security%20and%20Risk%20Management/#%201.13%20AI%20Governance,%20Ethics,%20and%20Strategic%20Risk%20Integration.md)
+- [1.13 AI Governance, Ethics, and Strategic Risk Integration](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.13%20AI%20Governance,%20Ethics,%20and%20Strategic%20Risk%20Integration.md)
 
 - [1.D.1 How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck](DOMAIN1%20-%20Security%20and%20Risk%20Management/1.D.1%20How%20Service%20Owners,%20Legal%20Teams,%20CISOs,%20and%20Privacy%20Officers%20Can%20Collaborate%20Effectively%20Without%20Getting%20Stuck.md)
 
