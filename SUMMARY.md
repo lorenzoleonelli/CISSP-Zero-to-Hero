@@ -130,6 +130,8 @@
 
 - [4.3 Implement secure communication channels according to design](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.3%20Implement%20secure%20communication%20channels%20according%20to%20design.md)
 
+- [4.4 Securing AI Data in Motion and Intelligent Network Defense](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.4%20Securing%20AI%20Data%20in%20Motion%20and%20Intelligent%20Network%20Defense.md)
+
 - [4.D.1 IPv4 Addressing and Subnetting](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.D.1%20IPv4%20Addressing%20and%20Subnetting.md)
 
 - [4.D.2 DNS](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.D.2%20DNS.md)

@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN4 - Communication and Network Security/4.4 Securing AI Data in Motion and Intelligent Network Defense.md",
+                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.3 Federated identity with a third-party service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 Securing AI Data in Motion and Intelligent Network Defense"
+              "title": "5.3 Federated identity with a third-party service"
+            }
+          },
+          {
+            "id": "47f284d01700d465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter, Securing Humans and Machines in an AI-Driven context.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.7 Identity as the Last Perimeter, Securing Humans and Machines in an AI-Driven context"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,13 +256,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "48921afd688f401e",
+  "active": "47f284d01700d465",
   "lastOpenFiles": [
-    "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter, Securing Humans and Machines in an AI-Driven context.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.3 Federated identity with a third-party service.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
+    "SUMMARY.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN4 - Communication and Network Security/4.4 Securing AI Data in Motion and Intelligent Network Defense.md",
+    "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
     "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
     "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
-    "SUMMARY.md",
     "DOMAIN3 - Security Architecture and Engineering/3.11 Architecting Trust – Engineering Secure AI Environments.md",
     "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
@@ -265,12 +286,6 @@
     "DOMAIN7 - Security Operations/7.11 Implement Disaster Recovery (DR) Processes.md",
     "DOMAIN4 - Communication and Network Security/4.D.2 DNS.md",
     "DOMAIN1 - Security and Risk Management/1.9 Understand and apply risk management concepts.md",
-    "README.md",
-    "SUPPORT.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.10 Manage the information system lifecycle.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.9 Design site and facility security controls.md",
     "personnel_security.png",
     "Excalidraw",
     "Untitled.canvas",
