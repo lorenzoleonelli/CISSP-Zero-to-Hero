@@ -106,6 +106,8 @@
 
 - [3.10 Manage the information system lifecycle](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.10%20Manage%20the%20information%20system%20lifecycle.md)
 
+- [3.11 Architecting Trust – Engineering Secure AI Environments](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.11%20Architecting%20Trust%20–%20Engineering%20Secure%20AI%20Environments.md)
+
 - [3.D.1 System Design Basics](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.D.1%20System%20Design%20Basics.md)
 
 - [3.D.2 Understanding How Common IoT Sensors Work](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.D.2%20Understanding%20How%20Common%20IoT%20Sensors%20Work.md)
