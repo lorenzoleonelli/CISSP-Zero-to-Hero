@@ -164,6 +164,8 @@
 
 - [5.6 Implement authentication systems](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.6%20Implement%20authentication%20systems.md)
 
+- [5.7 Identity as the Last Perimeter, Securing Humans and Machines in an AI-Driven context](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.7%20Identity%20as%20the%20Last%20Perimeter,%20Securing%20Humans%20and%20Machines%20in%20an%20AI-Driven%20context.md)
+
 - [5.D.1 FIDO and FIDO2 - Revolutionizing Authentication](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.D.1%20FIDO%20and%20FIDO2%20-%20Revolutionizing%20Authentication.md)
 
 - [5.D.2 Recap of NIST Special Publication (SP) 800-63B-4, Digital Identity Guidelines - Authentication and Authenticator Management](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.D.2%20Recap%20of%20NIST%20Special%20Publication%20(SP)%20800-63B-4,%20Digital%20Identity%20Guidelines%20-%20Authentication%20and%20Authenticator%20Management.md)
