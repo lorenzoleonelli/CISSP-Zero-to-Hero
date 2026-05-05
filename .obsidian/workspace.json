@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.16 AI as the SOC’s Force Multiplier"
+              "title": "SUMMARY"
             }
           }
         ],
@@ -286,8 +286,8 @@
   },
   "active": "bf5113e783bd6989",
   "lastOpenFiles": [
-    "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
     "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
+    "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
     "DOMAIN7 - Security Operations/7.14 Implement and manage physical security.md",
     "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",

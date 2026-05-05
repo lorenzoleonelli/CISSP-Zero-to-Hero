@@ -190,6 +190,8 @@
 
 - [6.5 Conduct or facilitate security audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.5%20Conduct%20or%20facilitate%20security%20audits.md)
 
+- [6.6 Red Teaming and Continuous Security Testing for AI Systems](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.6%20Red%20Teaming%20and%20Continuous%20Security%20Testing%20for%20AI%20Systems.md)
+
 - [6.D.1 ISO 19011 - The Unsung Hero of InfoSec Audits](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.1%20ISO%2019011%20-%20The%20Unsung%20Hero%20of%20InfoSec%20Audits.md)
 
 - [6.D.2 The Hidden Diary of Hackers - Understanding CVEs](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.D.2%20The%20Hidden%20Diary%20of%20Hackers%20-%20Understanding%20CVEs.md)
@@ -233,6 +235,8 @@
 - [7.14 Implement and manage physical security](DOMAIN7%20-%20Security%20Operations/7.14%20Implement%20and%20manage%20physical%20security.md)
 
 - [7.15 Address personnel safety and security concerns](DOMAIN7%20-%20Security%20Operations/7.15%20Address%20personnel%20safety%20and%20security%20concerns.md)
+
+- [7.16 AI as the SOC’s Force Multiplier](DOMAIN7%20-%20Security%20Operations/7.16%20AI%20as%20the%20SOC’s%20Force%20Multiplier.md)
 
 - [7.Q.1 Easy Questions](DOMAIN7%20-%20Security%20Operations/7.Q.1%20Easy%20Questions.md)
 
