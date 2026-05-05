@@ -298,11 +298,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44e57a75713881b5",
+  "active": "4dc03b6f7025604f",
   "lastOpenFiles": [
-    "DOMAIN8 - Software Development Security/8.5 - Define and apply secure coding guidelines and standards.md",
-    "DOMAIN8 - Software Development Security/8.3 - Assess the effectiveness of software security.md",
-    "DOMAIN8 - Software Development Security/8.4 - Assess security impact of acquired software.md",
+    "DOMAIN8 - Software Development Security/8.5 Define and apply secure coding guidelines and standards.md",
+    "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
+    "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
+    "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
+    "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
+    "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
     "DOMAIN8 - Software Development Security/8.6 Securing AI-Assisted Development in the Modern SDLC.md",
     "SUMMARY.md",
     "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
@@ -325,9 +328,6 @@
     "DOMAIN4 - Communication and Network Security/4.4 Securing AI Data in Motion and Intelligent Network Defense.md",
     "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
     "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
-    "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.11 Architecting Trust – Engineering Secure AI Environments.md",
-    "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
     "personnel_security.png",
     "Excalidraw",

@@ -248,15 +248,15 @@
 
 ---
 
-- [8.1 - Understand and integrate security in the Software Development Life Cycle (SDLC)](DOMAIN8%20-%20Software%20Development%20Security/8.1%20-%20Understand%20and%20integrate%20security%20in%20the%20Software%20Development%20Life%20Cycle%20(SDLC).md)
+- [8.1 Understand and integrate security in the Software Development Life Cycle (SDLC)](DOMAIN8%20-%20Software%20Development%20Security/8.1%20Understand%20and%20integrate%20security%20in%20the%20Software%20Development%20Life%20Cycle%20(SDLC).md)
 
-- [8.2 - Identify and apply security controls in software development ecosystems](DOMAIN8%20-%20Software%20Development%20Security/8.2%20-%20Identify%20and%20apply%20security%20controls%20in%20software%20development%20ecosystems.md)
+- [8.2 Identify and apply security controls in software development ecosystems](DOMAIN8%20-%20Software%20Development%20Security/8.2%20Identify%20and%20apply%20security%20controls%20in%20software%20development%20ecosystems.md)
 
-- [8.3 - Assess the effectiveness of software security](DOMAIN8%20-%20Software%20Development%20Security/8.3%20-%20Assess%20the%20effectiveness%20of%20software%20security.md)
+- [8.3 Assess the effectiveness of software security](DOMAIN8%20-%20Software%20Development%20Security/8.3%20Assess%20the%20effectiveness%20of%20software%20security.md)
 
-- [8.4 - Assess security impact of acquired software](DOMAIN8%20-%20Software%20Development%20Security/8.4%20-%20Assess%20security%20impact%20of%20acquired%20software.md)
+- [8.4 Assess security impact of acquired software](DOMAIN8%20-%20Software%20Development%20Security/8.4%20Assess%20security%20impact%20of%20acquired%20software.md)
 
-- [8.5 - Define and apply secure coding guidelines and standards](DOMAIN8%20-%20Software%20Development%20Security/8.5%20-%20Define%20and%20apply%20secure%20coding%20guidelines%20and%20standards.md)
+- [8.5 Define and apply secure coding guidelines and standards](DOMAIN8%20-%20Software%20Development%20Security/8.5%20Define%20and%20apply%20secure%20coding%20guidelines%20and%20standards.md)
 
 - [8.D.1 Databases Basics](DOMAIN8%20-%20Software%20Development%20Security/8.D.1%20Databases%20Basics.md)
 
