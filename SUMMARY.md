@@ -258,6 +258,8 @@
 
 - [8.5 Define and apply secure coding guidelines and standards](DOMAIN8%20-%20Software%20Development%20Security/8.5%20Define%20and%20apply%20secure%20coding%20guidelines%20and%20standards.md)
 
+- [8.6 Securing AI-Assisted Development in the Modern SDLC](DOMAIN8%20-%20Software%20Development%20Security/8.6%20Securing%20AI-Assisted%20Development%20in%20the%20Modern%20SDLC.md)
+
 - [8.D.1 Databases Basics](DOMAIN8%20-%20Software%20Development%20Security/8.D.1%20Databases%20Basics.md)
 
 - [8.Q.1 Easy Questions](DOMAIN8%20-%20Software%20Development%20Security/8.Q.1%20Easy%20Questions.md)
