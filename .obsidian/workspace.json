@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
+                "file": "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Understand and comply with investigations"
+              "title": "7.2 Conduct logging and monitoring activities"
             }
           }
         ],
@@ -202,6 +202,8 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
+    "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
     "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "SUMMARY.md",
@@ -228,8 +230,6 @@
     "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
-    "DOMAIN4 - Communication and Network Security/4.4 Securing AI Data in Motion and Intelligent Network Defense.md",
-    "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
     "personnel_security.png",
     "Excalidraw",
