@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
+                "file": "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Apply foundational security operations concepts"
+              "title": "7.5 Apply resource protection"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
-    "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
+    "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
+    "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
     "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
@@ -213,7 +214,6 @@
     "DOMAIN6 - Security Assessment and Testing/6.4 Analyze test output and generate report.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter, Securing Humans and Machines in an AI-Driven context.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.1 Control Physical and logical access to assets.md",
-    "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
     "personnel_security.png",
