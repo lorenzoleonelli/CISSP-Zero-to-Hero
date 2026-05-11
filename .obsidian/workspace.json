@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
+                "file": "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.7 Operate and maintain detection and preventative measures"
+              "title": "7.9 Understand and participate in change management processes"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
-    "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
+    "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
+    "DOMAIN7 - Security Operations/7.6 Conduct incident management.md",
     "DOMAIN7 - Security Operations/7.5 Apply resource protection.md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
     "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
@@ -213,7 +214,6 @@
     "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
     "DOMAIN6 - Security Assessment and Testing/6.5 Conduct or facilitate security audits.md",
     "DOMAIN6 - Security Assessment and Testing/6.3 Collect security process data (e.g., technical and administrative).md",
-    "DOMAIN6 - Security Assessment and Testing/6.4 Analyze test output and generate report.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
     "personnel_security.png",
