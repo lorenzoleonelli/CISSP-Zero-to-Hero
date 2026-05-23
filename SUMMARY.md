@@ -208,7 +208,7 @@
 
 - [7.1 Understand and comply with investigations](DOMAIN7%20-%20Security%20Operations/7.1%20Understand%20and%20comply%20with%20investigations.md)
 
-- [7.2 Conduct logging and monitoring activities](DOMAIN7%20-%20Security%20Operations/7.2%20Conduct%20logging%20and%20monitoring%20activities.md)
+- [](DOMAIN7%20-%20Security%20Operations/#%207.2%20Conduct%20logging%20and%20monitoring%20activities.md)
 
 - [7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation)](DOMAIN7%20-%20Security%20Operations/7.3%20Perform%20Configuration%20Management%20(CM)%20(e.g.,%20provisioning,%20baselining,%20automation).md)
 
