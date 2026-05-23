@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.1 Understand and integrate security in the Software Development Life Cycle (SDLC)"
+              "title": "3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "Riferimenti a 3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements"
             }
           },
           {
@@ -164,13 +164,33 @@
               "icon": "lucide-list",
               "title": "Outline of 1.3 Evaluate, apply, and sustain security governance principles"
             }
+          },
+          {
+            "id": "3ff5dfb1820ea746",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view-connections",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "a4026fc14fb949f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +202,19 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "4536b05e4559d3aa",
+  "active": "44e57a75713881b5",
   "lastOpenFiles": [
+    "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
+    "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
-    "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
-    "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
     "DOMAIN7 - Security Operations/7.11 Implement Disaster Recovery (DR) Processes.md",
     "DOMAIN7 - Security Operations/7.12 Test Disaster Recovery Plan (DRP).md",
     "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
