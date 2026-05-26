@@ -10,18 +10,23 @@ Your engagement makes a real difference — both for this project and for the CI
 ### 🌐 Connect with Me
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/lorenzoleonelli/) to:
-- Get free CISSP explanations, real-world security scenarios, and PMP insights.
+- Get free CISSP explanations, real-world security scenarios and exam mentorship.
 - Stay up to date with new question banks, study tools, and resources.
-- Join the discussion with 16,000+ professionals in cybersecurity and project management.
+- Join the discussion with 20k+ professionals in cybersecurity and project management.
 
 Your comments and reactions on my posts really help spread quality educational content to more learners!
+
+Join the website: www.theinfosecvault.com to have for free:
+- Access to 1000+ exam questions (also in CAT format) with detailed explanations and performance monitor
+- Free mentorship and personalized explanation to specific questions and topics
+
+It would be helpful if you spread the word about www.theinfosecvault.com and rate it here: https://www.trustpilot.com/review/theinfosecvault.com
 
 ---
 
 ### ☕ Support My Work
 
-Creating high-quality study material takes time and passion.  
-If you’d like to support this initiative and help me keep sharing free CISSP resources, you can make a small donation here:  
+Creating high-quality study material takes time and passion.   If you’d like to support this initiative and help me keep sharing free CISSP resources, you can make a small donation here:  
 
 👉 [**Make a Donation**](https://www.paypal.com/donate/?business=lorenzoleonelli@hotmail.com&currency_code=USD&item_name=Support+CISSP+Zero+to+Hero&amount=3.50)
 
