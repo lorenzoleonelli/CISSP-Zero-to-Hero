@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
+                "file": "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 Conduct security controls testing"
+              "title": "8.4 Assess security impact of acquired software"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,11 +211,12 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
+    "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
+    "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
+    "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
     "SIEM.jpg",
     "DOMAIN4 - Communication and Network Security/4.L.2 Understanding NetFlow, SNMP, and Syslog.md",
     "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
-    "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
-    "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
@@ -254,7 +254,6 @@
     "Gemini_Generated_Image_f2ynukf2ynukf2yn.png",
     "Images/Gemini_Generated_Image_nwij1ynwij1ynwij.png",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
-    "Images",
-    "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png"
+    "Images"
   ]
 }
