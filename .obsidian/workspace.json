@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SIEM",
+                "query": "trust boundary",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,6 +212,8 @@
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
     "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
+    "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
     "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
     "SIEM.jpg",
@@ -219,7 +221,6 @@
     "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "SUPPORT.md",
     "THANKS.md",
@@ -237,7 +238,6 @@
     "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
     "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
-    "DOMAIN7 - Security Operations/7.8 Implement and support patch and vulnerability management.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
