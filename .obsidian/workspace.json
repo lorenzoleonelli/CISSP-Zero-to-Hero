@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.16 AI as the SOC’s Force Multiplier"
+              "title": "1.13 AI Governance, Ethics, and Strategic Risk Integration"
             }
           }
         ]
@@ -211,12 +211,14 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
-    "DOMAIN8 - Software Development Security/8.6 Securing AI-Assisted Development in the Modern SDLC.md",
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+    "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
     "DOMAIN8 - Software Development Security/8.5 Define and apply secure coding guidelines and standards.md",
+    "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
+    "DOMAIN8 - Software Development Security/8.6 Securing AI-Assisted Development in the Modern SDLC.md",
     "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
     "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
     "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
     "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
@@ -234,10 +236,8 @@
     "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
     "DOMAIN7 - Security Operations/7.14 Implement and manage physical security.md",
     "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
-    "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
     "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
-    "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
