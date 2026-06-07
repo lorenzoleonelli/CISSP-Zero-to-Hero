@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
+                "file": "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.4 Assess security impact of acquired software"
+              "title": "7.16 AI as the SOC’s Force Multiplier"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trust boundary",
+                "query": "PaaS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,22 +211,24 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
-    "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
+    "DOMAIN8 - Software Development Security/8.6 Securing AI-Assisted Development in the Modern SDLC.md",
+    "DOMAIN8 - Software Development Security/8.5 Define and apply secure coding guidelines and standards.md",
     "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
+    "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+    "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
+    "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
     "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
     "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
     "SIEM.jpg",
     "DOMAIN4 - Communication and Network Security/4.L.2 Understanding NetFlow, SNMP, and Syslog.md",
     "DOMAIN4 - Communication and Network Security/4.3 Implement secure communication channels according to design.md",
-    "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "SUPPORT.md",
     "THANKS.md",
     "DOMAIN7 - Security Operations/7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation).md",
-    "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
-    "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
     "DOMAIN7 - Security Operations/7.11 Implement Disaster Recovery (DR) Processes.md",
     "DOMAIN7 - Security Operations/7.12 Test Disaster Recovery Plan (DRP).md",
     "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
@@ -236,8 +238,6 @@
     "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "DOMAIN7 - Security Operations/7.4 Apply foundational security operations concepts.md",
     "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
-    "DOMAIN7 - Security Operations/7.9 Understand and participate in change management processes.md",
-    "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
