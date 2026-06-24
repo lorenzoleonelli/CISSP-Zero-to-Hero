@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN8 - Software Development Security/8.6 Securing AI-Assisted Development in the Modern SDLC.md",
+                "file": "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.6 Securing AI-Assisted Development in the Modern SDLC"
+              "title": "4.1 Apply secure design principles in network architectures"
             }
           }
         ]
@@ -144,7 +144,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "showSearch": true,
-                "searchQuery": "SAST"
+                "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
