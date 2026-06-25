@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PaaS",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,6 +211,9 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
+    "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
+    "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
+    "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
     "DOMAIN8 - Software Development Security/8.5 Define and apply secure coding guidelines and standards.md",
     "DOMAIN8 - Software Development Security/8.6 Securing AI-Assisted Development in the Modern SDLC.md",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration.md",
@@ -235,9 +238,6 @@
     "DOMAIN7 - Security Operations/7.11 Implement Disaster Recovery (DR) Processes.md",
     "DOMAIN7 - Security Operations/7.12 Test Disaster Recovery Plan (DRP).md",
     "DOMAIN7 - Security Operations/7.13 Participate in Business Continuity Planning and exercises.md",
-    "DOMAIN7 - Security Operations/7.14 Implement and manage physical security.md",
-    "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
-    "DOMAIN7 - Security Operations/7.2 Conduct logging and monitoring activities.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
