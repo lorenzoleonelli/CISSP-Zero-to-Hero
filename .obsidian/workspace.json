@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6 Determine data security controls and compliance requirements"
+              "title": "3.3 Select Controls based upon system security requirements"
             }
           }
         ]
@@ -186,11 +186,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +209,12 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "44e57a75713881b5",
+  "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
+    "DOMAIN2 - Asset Security/2.Q.1 Easy Questions.md",
+    "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN4 - Communication and Network Security/4.S.1 SCENARIO1.html",
     "4.S.1.SCENARIO1.html",
-    "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN4 - Communication and Network Security/4.S.1 Scenario 1.md",
     "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
