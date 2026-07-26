@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
+                "file": "DOMAIN3 - Security Architecture and Engineering/3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Select Controls based upon system security requirements"
+              "title": "3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …)"
             }
           }
         ]
@@ -211,6 +211,8 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
+    "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …).md",
     "DOMAIN2 - Asset Security/2.Q.1 Easy Questions.md",
     "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN4 - Communication and Network Security/4.S.1 SCENARIO1.html",
@@ -237,8 +239,6 @@
     "DOMAIN7 - Security Operations/7.16 AI as the SOC’s Force Multiplier.md",
     "DOMAIN8 - Software Development Security/8.4 Assess security impact of acquired software.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
-    "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
-    "DOMAIN8 - Software Development Security/8.3 Assess the effectiveness of software security.md",
     "SIEM.jpg",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
