@@ -21,7 +21,7 @@
 Looking to test your managerial mindset under realistic exam conditions? 
 While this repository serves as your comprehensive study guide and core knowledge base, you can test your knowledge on **[TheInfoSecVault.com](https://www.theinfosecvault.com)**—the official interactive simulator built for this curriculum. 
 
-* **1,000+ Scenario-Based Questions:** Built specifically to mirror the 2024/2026 (ISC)² Computerized Adaptive Testing (CAT) exam logic. 
+* **1,100+ Scenario-Based Questions:** Built specifically to mirror the 2024/2026 (ISC)² Computerized Adaptive Testing (CAT) exam logic. 
 * **The Mastermind Challenge:** 15 high-intensity questions, 90 seconds per question—test your speed and decision authority. 
 * **AI-Powered Weakness Analytics:** Automatically track your domain accuracy and pinpoint exactly where to focus your study time. 
 * **100% Free & Open Access:** Designed to complement this repository with zero paywalls. 👉 **[Launch TheInfoSecVault Simulator](https://www.theinfosecvault.com)**
