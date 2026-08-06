@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.3 Evaluate, apply, and sustain security governance principles"
             }
           }
         ]
@@ -211,10 +211,10 @@
   },
   "active": "4536b05e4559d3aa",
   "lastOpenFiles": [
+    "README.md",
     "THANKS.md",
     "SUPPORT.md",
     "SUMMARY.md",
-    "README.md",
     "Images/personnel_security.png",
     "Images/SIEM.jpg",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
