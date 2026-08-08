@@ -641,3 +641,8 @@
 "event_logs:block:hover_preview": {"key":"block:hover_preview","ct":57,"first_at":1782475239776,"last_at":1786201226594,"class_name":"EventLog"},
 "event_logs:block:hover_preview": {"key":"block:hover_preview","ct":59,"first_at":1782475239776,"last_at":1786201250253,"class_name":"EventLog"},
 "event_logs:block:hover_preview": {"key":"block:hover_preview","ct":60,"first_at":1782475239776,"last_at":1786201279028,"class_name":"EventLog"},
+"event_logs:block:hover_preview": {"key":"block:hover_preview","ct":61,"first_at":1782475239776,"last_at":1786201515125,"class_name":"EventLog"},
+"event_logs:block:hover_preview": {"key":"block:hover_preview","ct":62,"first_at":1782475239776,"last_at":1786201527058,"class_name":"EventLog"},
+"event_logs:block:hover_preview": {"key":"block:hover_preview","ct":64,"first_at":1782475239776,"last_at":1786203875604,"class_name":"EventLog"},
+"event_logs:sources:modified": {"key":"sources:modified","ct":2817,"first_at":1779652500698,"last_at":1786203904771,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":2168,"obsidian:vault.modify":649}},
+"event_logs:sources:modified": {"key":"sources:modified","ct":2818,"first_at":1779652500698,"last_at":1786203906499,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":2168,"obsidian:vault.modify":650}},
