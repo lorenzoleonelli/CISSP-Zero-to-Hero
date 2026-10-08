@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
+                "file": "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6 Implement authentication systems"
+              "title": "7.1 Understand and comply with investigations"
             }
           }
         ],
@@ -228,8 +228,9 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
-    "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.D.1 FIDO and FIDO2 - Revolutionizing Authentication.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
     "CONTRIBUTING.md",
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
@@ -257,7 +258,6 @@
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN6 - Security Assessment and Testing/6.5 Conduct or facilitate security audits.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
-    "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
