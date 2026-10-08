@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
+                "file": "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.4 Implement and manage authorization mechanisms"
+              "title": "5.6 Implement authentication systems"
             }
           }
         ],
@@ -228,6 +228,10 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
+    "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
+    "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
+    "CONTRIBUTING.md",
     "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
@@ -254,10 +258,6 @@
     "DOMAIN6 - Security Assessment and Testing/6.5 Conduct or facilitate security audits.md",
     "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
     "DOMAIN4 - Communication and Network Security/4.2 Secure Network Component.md",
-    "DOMAIN4 - Communication and Network Security/4.1 Apply secure design principles in network architectures.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.8 Apply security principles to site and facility design.md",
-    "DOMAIN7 - Security Operations/7.Q.1 Easy Questions.md",
-    "DOMAIN7 - Security Operations/7.15 Address personnel safety and security concerns.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
