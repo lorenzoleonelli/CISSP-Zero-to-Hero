@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4536b05e4559d3aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context"
-            }
-          },
-          {
             "id": "3bcc39dbc7b3aec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.6 Develop, document, and implement security policy, standards, procedures, and guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Understand and comply with investigations"
+              "title": "1.6 Develop, document, and implement security policy, standards, procedures, and guidelines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "right": {
     "id": "db505af342400a6f",
@@ -228,12 +213,15 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
+    "DOMAIN1 - Security and Risk Management/1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards).md",
+    "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
+    "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
+    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.D.1 FIDO and FIDO2 - Revolutionizing Authentication.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.6 Implement authentication systems.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
     "CONTRIBUTING.md",
-    "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
     "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "README.md",
@@ -242,7 +230,6 @@
     "SUMMARY.md",
     "Images/personnel_security.png",
     "Images/SIEM.jpg",
-    "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN3 - Security Architecture and Engineering/3.5 Assess and mitigate the vulnerabilities of security architectures, designs and solution elements.md",
     "DOMAIN3 - Security Architecture and Engineering/3.4 Understand Security Capabilities of Information Systems (e.g. memory protection, TPM, …).md",
     "DOMAIN3 - Security Architecture and Engineering/3.3 Select Controls based upon system security requirements.md",
@@ -256,8 +243,6 @@
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
-    "DOMAIN6 - Security Assessment and Testing/6.5 Conduct or facilitate security audits.md",
-    "DOMAIN7 - Security Operations/7.7 Operate and maintain detection and preventative measures.md",
     "Senza nome",
     "DOMAIN5 - Identity and Access Management (IAM)/5.7 Identity as the Last Perimeter — Securing Humans and Machines in an AI-Driven World",
     "DOMAIN1 - Security and Risk Management/1.13 AI Governance, Ethics, and Strategic Risk Integration",
