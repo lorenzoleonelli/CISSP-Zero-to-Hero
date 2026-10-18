@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN1 - Security and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
+    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN1 - Security and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "SUMMARY.md",
@@ -227,7 +228,6 @@
     "DOMAIN5 - Identity and Access Management (IAM)/5.4 Implement and manage authorization mechanisms.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.5 Manage the identity and access provisioning lifecycle.md",
     "CONTRIBUTING.md",
-    "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "README.md",
     "THANKS.md",
     "SUPPORT.md",
