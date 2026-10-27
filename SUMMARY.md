@@ -1,4 +1,4 @@
-# DOMAIN1:
+## Domain1: Security Governance and Risk Management ##
 
 - [1.1 Understand, adhere to, and promote professional ethics](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.1%20Understand,%20adhere%20to,%20and%20promote%20professional%20ethics.md)
 
@@ -54,6 +54,8 @@
 
 ---
 
+## Domain 2: Asset Security ##
+
 - [2.1 Identify and classify information and assets](DOMAIN2%20-%20Asset%20Security/2.1%20Identify%20and%20classify%20information%20and%20assets.md)
 
 - [2.2 Establish information and asset handling requirements](DOMAIN2%20-%20Asset%20Security/2.2%20Establish%20information%20and%20asset%20handling%20requirements.md)
@@ -83,6 +85,8 @@
 - [FLASHCARDS](DOMAIN2%20-%20Asset%20Security/FLASHCARDS.md)
 
 ---
+
+## Domain 3: Security Architecture and Engineering ##
 
 - [3.1 Research, implement, and manage engineering processes using secure design principles](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.1%20Research,%20implement,%20and%20manage%20engineering%20processes%20using%20secure%20design%20principles.md)
 
@@ -122,6 +126,8 @@
 
 ---
 
+## Domain 4: Communication and Network Security ##
+
 - [4.1 Apply secure design principles in network architectures](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.1%20Apply%20secure%20design%20principles%20in%20network%20architectures.md)
 
 - [4.2 Secure Network Component](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.2%20Secure%20Network%20Component.md)
@@ -147,6 +153,8 @@
 - [FLASHCARDS](DOMAIN4%20-%20Communication%20and%20Network%20Security/FLASHCARDS.md)
 
 ---
+
+## Domain 5: Identity and Access Management (IAM) ##
 
 - [5.0 Preface](DOMAIN5%20-%20Identity%20and%20Access%20Management%20(IAM)/5.0%20Preface.md)
 
@@ -178,6 +186,8 @@
 
 ---
 
+## Domain 6: Security Assessment and Testing ##
+
 - [6.1 Design and validate assessment, test, and audit strategy](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.1%20Design%20and%20validate%20assessment,%20test,%20and%20audit%20strategy.md)
 
 - [6.2 Conduct security controls testing](DOMAIN6%20-%20Security%20Assessment%20and%20Testing/6.2%20Conduct%20security%20controls%20testing.md)
@@ -204,11 +214,13 @@
 
 ---
 
+## Domain 7: Security Operations ##
+
 - [7.1 Understand and comply with investigations](DOMAIN7%20-%20Security%20Operations/7.1%20Understand%20and%20comply%20with%20investigations.md)
 
-- [](DOMAIN7%20-%20Security%20Operations/#%207.2%20Conduct%20logging%20and%20monitoring%20activities.md)
+- [7.2 Conduct logging and monitoring activities](DOMAIN7%20-%20Security%20Operations/7.2%20Conduct%20logging%20and%20monitoring%20activities.md)
 
-- [](DOMAIN7%20-%20Security%20Operations/##%207.3%20Perform%20Configuration%20Management%20(CM)%20(e.g.,%20provisioning,%20baselining,%20automation).md)
+- [7.3 Perform Configuration Management (CM) (e.g., provisioning, baselining, automation)](DOMAIN7%20-%20Security%20Operations/7.3%20Perform%20Configuration%20Management%20(CM)%20(e.g.,%20provisioning,%20baselining,%20automation).md)
 
 - [7.4 Apply foundational security operations concepts](DOMAIN7%20-%20Security%20Operations/7.4%20Apply%20foundational%20security%20operations%20concepts.md)
 
@@ -245,6 +257,8 @@
 - [FLASHCARDS](DOMAIN7%20-%20Security%20Operations/FLASHCARDS.md)
 
 ---
+
+## Domain 8: Software Development Security ##
 
 - [8.1 Understand and integrate security in the Software Development Life Cycle (SDLC)](DOMAIN8%20-%20Software%20Development%20Security/8.1%20Understand%20and%20integrate%20security%20in%20the%20Software%20Development%20Life%20Cycle%20(SDLC).md)
 
