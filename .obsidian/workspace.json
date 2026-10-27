@@ -11,12 +11,14 @@
             "id": "3bcc39dbc7b3aec0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20261019174719.png"
+                "file": "DOMAIN1 - Security Governance and Risk Management/1.11 Apply supply chain risk management (SCRM) concepts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261019174719"
+              "icon": "lucide-file",
+              "title": "1.11 Apply supply chain risk management (SCRM) concepts"
             }
           }
         ]
@@ -209,16 +211,16 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "44e57a75713881b5",
+  "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
-    "Pasted image 20261019174719.png",
+    "DOMAIN7.md",
+    "Images/Pasted image 20261019174719.png",
     "DOMAIN7 - Security Operations/7.Q.2 Hard Questions.md",
     "SUMMARY.md",
     "DOMAIN7 - Security Operations/7.Q.1 Easy Questions.md",
     "DOMAIN7 - Security Operations/7.1 Understand and comply with investigations.md",
     "DOMAIN6 - Security Assessment and Testing/6.2 Conduct security controls testing.md",
     "DOMAIN6 - Security Assessment and Testing/6.1 Design and validate assessment, test, and audit strategy.md",
-    "DOMAIN7.md",
     "DOMAIN5 - Identity and Access Management (IAM)/5.0 Preface.md",
     "DOMAIN8 - Software Development Security/8.2 Identify and apply security controls in software development ecosystems.md",
     "DOMAIN8 - Software Development Security/8.1 Understand and integrate security in the Software Development Life Cycle (SDLC).md",
