@@ -34,8 +34,6 @@
 
 - [1.D.5 Service Level Agreement (SLA)](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.D.5%20Service%20Level%20Agreement%20(SLA).md)
 
-- [1.D.7 A Technical Deep Dive into the NIS2 Directive](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.D.7%20A%20Technical%20Deep%20Dive%20into%20the%20NIS2%20Directive.md)
-
 - [1.L.1 Github as a learning tool](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.1%20Github%20as%20a%20learning%20tool.md)
 
 - [1.L.2 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.2%20Locking%20Down%20RDP%20-%20Expert-Level%20Setup,%20Ports,%20Authentication%20&%20Monitoring.md)
