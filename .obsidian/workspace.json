@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security Governance and Risk Management/1.D.4 Non-Disclosure Agreement (NDA).md",
+                "file": "DOMAIN1 - Security Governance and Risk Management/1.D.5 Service Level Agreement (SLA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.D.4 Non-Disclosure Agreement (NDA)"
+              "title": "1.D.5 Service Level Agreement (SLA)"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
+    "DOMAIN1 - Security Governance and Risk Management/1.D.4 Non-Disclosure Agreement (NDA).md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.3 Acceptable Use Policy (AUP).md",
     "DOMAIN1 - Security Governance and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.2 Understanding Patents, Copyrights, and Trademarks (Without Falling Asleep).md",
@@ -239,7 +240,6 @@
     "DOMAIN1 - Security Governance and Risk Management/1.2 Understand and apply security concepts.md",
     "DOMAIN7 - Security Operations.md",
     "DOMAIN1 - Security Governance and Risk Management/1.8 Contribute to and enforce personnel security policies and procedures.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.4 Understand legal,regulatory,compliance issues that pertain to infosec in a holistic context.md",
     "Images/personnel_security.png",
     "Images/SIEM.jpg",
     "DOMAIN4 - Communication and Network Security/4.S.1 SCENARIO1.html",
