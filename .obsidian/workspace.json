@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THANKS.md",
+                "file": "DOMAIN2 - Asset Security/DICTIONARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THANKS"
+              "title": "DICTIONARY"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
-    "README.md",
     "THANKS.md",
+    "README.md",
     "SUPPORT.md",
     "SUMMARY.md",
     "DOMAIN3 - Security Architecture and Engineering/3.L.1 Windows CLI for Security Beginners.md",
