@@ -1,7 +1,7 @@
 <div align="center">
 
 # CISSP: ZERO TO HERO
-### Comprehensive CISSP knowledge base covering all 8 domains. Includes mind maps, practice questions, and managerial mindset tips for the 2024/2026 exam update
+### Comprehensive CISSP knowledge base covering all 8 domains. Includes mind maps, practice questions, and managerial mindset tips for the 2027 exam update
 
 <img src="https://github.com/user-attachments/assets/14e44ba0-524d-4712-ba5e-2bb16cd02ab9" alt="Lorenzo Leonelli" width="220" style="border-radius: 50%; border: 5px solid #009688; margin: 20px 0;">
 
@@ -21,9 +21,9 @@
 Looking to test your managerial mindset under realistic exam conditions? 
 While this repository serves as your comprehensive study guide and core knowledge base, you can test your knowledge on **[TheInfoSecVault.com](https://www.theinfosecvault.com)**—the official interactive simulator built for this curriculum. 
 
-* **1,100+ Scenario-Based Questions:** Built specifically to mirror the 2024/2026 (ISC)² Computerized Adaptive Testing (CAT) exam logic. 
+* **1,200+ Scenario-Based Questions:** Built specifically to mirror the 2024/2026 (ISC)² Computerized Adaptive Testing (CAT) exam logic. 
 * **The Mastermind Challenge:** 15 high-intensity questions, 90 seconds per question—test your speed and decision authority. 
-* **AI-Powered Weakness Analytics:** Automatically track your domain accuracy and pinpoint exactly where to focus your study time. 
+* **Analytics:** Automatically track your domain accuracy and pinpoint exactly where to focus your study time. 
 * **100% Free & Open Access:** Designed to complement this repository with zero paywalls. 👉 **[Launch TheInfoSecVault Simulator](https://www.theinfosecvault.com)**
 ## 🎯 The Mission
 The CISSP is not a technical vocabulary test; it is an evaluation of your ability to manage risk. **Zero to Hero** is a living curriculum designed to transition professionals from a technical "fixer" role to a strategic security leader. 
