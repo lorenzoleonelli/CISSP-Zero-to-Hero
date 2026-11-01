@@ -17,7 +17,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/lorenzoleonelli/) to:
 Your comments and reactions on my posts really help spread quality educational content to more learners!
 
 Join the website: www.theinfosecvault.com to have for free:
-- Access to 1000+ exam questions (also in CAT format) with detailed explanations and performance monitor
+- Access to 1200+ exam questions (also in CAT format) with detailed explanations and performance monitor
 - Free mentorship and personalized explanation to specific questions and topics
 
 It would be helpful if you spread the word about www.theinfosecvault.com and rate it here: https://www.trustpilot.com/review/theinfosecvault.com
@@ -35,7 +35,7 @@ Thank you sincerely for being part of this journey 🙏
 
 ---
 
-**Stay curious. Stay ethical. Keep learning.**  
+** Keep learning.**  
 – Lorenzo Leonelli  
 PMP | CISSP | Cybersecurity & Project Management Educator
 

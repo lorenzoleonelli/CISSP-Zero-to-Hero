@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "SUPPORT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "SUPPORT"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
-    "DOMAIN3 - Security Architecture and Engineering/3.L.1 Windows CLI for Security Beginners.md",
     "SUMMARY.md",
+    "DOMAIN3 - Security Architecture and Engineering/3.L.1 Windows CLI for Security Beginners.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
     "DOMAIN4 - Communication and Network Security/4.L.3 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring.md",
