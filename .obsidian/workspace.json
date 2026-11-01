@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "THANKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "THANKS"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
+    "README.md",
     "THANKS.md",
     "SUPPORT.md",
     "SUMMARY.md",
@@ -229,7 +230,6 @@
     "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/FLASHCARDS.md",
     "DOMAIN1 - Security Governance and Risk Management/DICTIONARY.md",
-    "README.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.7 The NIS2 Directive.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
     "DOMAIN1 - Security Governance and Risk Management/1.D.5 Service Level Agreement (SLA).md",
