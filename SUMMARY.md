@@ -36,11 +36,7 @@
 
 - [1.L.1 Github as a learning tool](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.1%20Github%20as%20a%20learning%20tool.md)
 
-- [1.L.2 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.2%20Locking%20Down%20RDP%20-%20Expert-Level%20Setup,%20Ports,%20Authentication%20&%20Monitoring.md)
-
-- [1.L.3 Risk Matrix and Risk Register](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.3%20Risk%20Matrix%20and%20Risk%20Register.md)
-
-- [1.L.4 Windows CLI for Security Beginners](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.4%20Windows%20CLI%20for%20Security%20Beginners.md)
+- [1.L.2 Risk Matrix and Risk Register](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.L.2%20Risk%20Matrix%20and%20Risk%20Register.md)
 
 - [1.Q.1 Easy Questions](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/1.Q.1%20Easy%20Questions.md)
 
@@ -114,6 +110,8 @@
 
 - [3.D.3 IP Surveillance Cameras — Technical Overview](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.D.3%20IP%20Surveillance%20Cameras%20—%20Technical%20Overview.md)
 
+- [3.L.1 Windows CLI for Security Beginners](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.L.1%20Windows%20CLI%20for%20Security%20Beginners.md)
+
 - [3.Q.1 Easy Questions](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.Q.1%20Easy%20Questions.md)
 
 - [3.Q.2 Hard Questions](DOMAIN3%20-%20Security%20Architecture%20and%20Engineering/3.Q.2%20Hard%20Questions.md)
@@ -141,6 +139,8 @@
 - [4.L.1 First Steps with Wireshark](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.L.1%20First%20Steps%20with%20Wireshark.md)
 
 - [4.L.2 Understanding NetFlow, SNMP, and Syslog](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.L.2%20Understanding%20NetFlow,%20SNMP,%20and%20Syslog.md)
+
+- [4.L.3 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.L.3%20Locking%20Down%20RDP%20-%20Expert-Level%20Setup,%20Ports,%20Authentication%20&%20Monitoring.md)
 
 - [4.Q.1 Easy Questions](DOMAIN4%20-%20Communication%20and%20Network%20Security/4.Q.1%20Easy%20Questions.md)
 

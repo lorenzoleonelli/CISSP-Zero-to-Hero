@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Identify and classify information and assets"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -213,20 +213,20 @@
   },
   "active": "3bcc39dbc7b3aec0",
   "lastOpenFiles": [
+    "DOMAIN3 - Security Architecture and Engineering/3.L.1 Windows CLI for Security Beginners.md",
+    "SUMMARY.md",
+    "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
+    "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
+    "DOMAIN4 - Communication and Network Security/4.L.3 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring.md",
+    "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
-    "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.2 Hard Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/FLASHCARDS.md",
     "DOMAIN1 - Security Governance and Risk Management/DICTIONARY.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.4 Windows CLI for Security Beginners.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.3 Risk Matrix and Risk Register.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.2 Locking Down RDP - Expert-Level Setup, Ports, Authentication & Monitoring.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
-    "SUMMARY.md",
     "README.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.7 The NIS2 Directive.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
