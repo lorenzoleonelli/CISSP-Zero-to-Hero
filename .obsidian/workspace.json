@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5561f3c947a6ca8e",
+        "id": "074dc162e95fa728",
         "type": "tabs",
         "children": [
           {
-            "id": "3bcc39dbc7b3aec0",
+            "id": "4b9f7c37ada3f002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
+                "file": "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula)"
+              "title": "2.1 Identify and classify information and assets"
             }
           }
         ]
@@ -74,6 +74,20 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3bcc39dbc7b3aec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Identify and classify information and assets"
             }
           }
         ]
@@ -211,11 +225,22 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "3bcc39dbc7b3aec0",
+  "active": "4b9f7c37ada3f002",
   "lastOpenFiles": [
-    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
-    "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
+    "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
+    "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
+    "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
+    "Images/Data_loss_leak_breach.png",
+    "Images/Gemini_Generated_Image_51x6ec51x6ec51x6.png",
+    "Images/Gemini_Generated_Image_nwij1ynwij1ynwij.png",
+    "Images/Pasted image 20260207081852.png",
+    "Images/Pasted image 20260207082654.png",
+    "Images/Pasted image 20260210211301.png",
+    "Images/Pasted image 20261019174719.png",
+    "Images/personnel_security.png",
+    "DOMAIN3 - Security Architecture and Engineering/3.2 Understand the fundamental concepts of security models (e.g. Biba, Star Model, Bell Lapadula).md",
+    "DOMAIN3 - Security Architecture and Engineering/3.1 Research, implement, and manage engineering processes using secure design principles.md",
     "DOMAIN2 - Asset Security/DICTIONARY.md",
     "THANKS.md",
     "README.md",
@@ -228,7 +253,6 @@
     "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
-    "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.2 Hard Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/FLASHCARDS.md",
@@ -239,10 +263,6 @@
     "DOMAIN1 - Security Governance and Risk Management/1.D.4 Non-Disclosure Agreement (NDA).md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.3 Acceptable Use Policy (AUP).md",
     "DOMAIN1 - Security Governance and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.D.2 Understanding Patents, Copyrights, and Trademarks (Without Falling Asleep).md",
-    "Images/Pasted image 20261019174719.png",
-    "Images/personnel_security.png",
-    "Images/SIEM.jpg",
     "DOMAIN4 - Communication and Network Security/4.S.1 SCENARIO1.html",
     "4.S.1.SCENARIO1.html",
     "Senza nome",
@@ -251,13 +271,6 @@
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
-    "Images/Pasted image 20260210211301.png",
-    "Images/Gemini_Generated_Image_51x6ec51x6ec51x6.png",
-    "Images/Pasted image 20260207082654.png",
-    "Images/Pasted image 20260207081852.png",
-    "Images/Data_loss_leak_breach.png",
-    "Gemini_Generated_Image_f2ynukf2ynukf2yn.png",
-    "Images/Gemini_Generated_Image_nwij1ynwij1ynwij.png",
     "Images"
   ]
 }
