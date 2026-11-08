@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "2.3 Provision information and assets securely"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "4b9f7c37ada3f002",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.7 Asset Security in the Age of AI.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
@@ -261,7 +262,6 @@
     "THANKS.md",
     "README.md",
     "SUPPORT.md",
-    "SUMMARY.md",
     "DOMAIN3 - Security Architecture and Engineering/3.L.1 Windows CLI for Security Beginners.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.6 NIST CSF 2.0 and ISO 27001_2022 (mapping) by Andrey Prozorov.pdf",
     "DOMAIN4 - Communication and Network Security/4.S.1 SCENARIO1.html",
