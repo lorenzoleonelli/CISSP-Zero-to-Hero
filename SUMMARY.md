@@ -62,8 +62,6 @@
 
 - [2.6 Determine data security controls and compliance requirements](DOMAIN2%20-%20Asset%20Security/2.6%20Determine%20data%20security%20controls%20and%20compliance%20requirements.md)
 
-- [2.7 Asset Security in the Age of AI](DOMAIN2%20-%20Asset%20Security/2.7%20Asset%20Security%20in%20the%20Age%20of%20AI.md)
-
 - [2.D.1 Mastering Configuration Management - The Hidden Shield of Your IT Security](DOMAIN2%20-%20Asset%20Security/2.D.1%20Mastering%20Configuration%20Management%20-%20The%20Hidden%20Shield%20of%20Your%20IT%20Security.md)
 
 - [2.D.2 Mobile wallets (e.g., Apple Pay, Google Pay) - tokenization in action](DOMAIN2%20-%20Asset%20Security/2.D.2%20Mobile%20wallets%20(e.g.,%20Apple%20Pay,%20Google%20Pay)%20-%20tokenization%20in%20action.md)
