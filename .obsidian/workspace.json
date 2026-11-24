@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Q.1 Easy Questions"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "4b9f7c37ada3f002",
   "lastOpenFiles": [
+    "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.5 Service Level Agreement (SLA).md",
@@ -252,7 +253,6 @@
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
-    "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
     "Images/Data_loss_leak_breach.png",
