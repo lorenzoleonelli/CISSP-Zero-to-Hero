@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
+                "file": "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.L.1 Github as a learning tool"
+              "title": "1.L.2 Risk Matrix and Risk Register"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "2429fc5219c2396b",
   "lastOpenFiles": [
+    "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.5 Service Level Agreement (SLA).md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.4 Non-Disclosure Agreement (NDA).md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.3 Acceptable Use Policy (AUP).md",
@@ -249,7 +250,6 @@
     "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "SUMMARY.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
