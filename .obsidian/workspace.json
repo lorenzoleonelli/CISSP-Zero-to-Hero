@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
+                "file": "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Manage Data Lifecycle"
+              "title": "2.6 Determine data security controls and compliance requirements"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "2429fc5219c2396b",
   "lastOpenFiles": [
+    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.5 Service Level Agreement (SLA).md",
@@ -250,7 +251,6 @@
     "DOMAIN1 - Security Governance and Risk Management/1.Q.2 Hard Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "SUMMARY.md",
-    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
