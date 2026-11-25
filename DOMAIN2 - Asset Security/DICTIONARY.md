@@ -77,12 +77,6 @@
 
 **Data Owner:** The individual or group responsible for determining the classification level of data and ensuring its protection.
 
-**Data classification:** Categorizing data based on its sensitivity and value to determine appropriate security controls.
-
-**Data Controller:** The entity that determines the purpose and means of processing personal data.
-
-**Data Custodian:** The individual or group responsible for maintaining data and its security level, typically involving the implementation and management of security controls.
-
 **Data Destruction:** The process of eliminating data from storage media to render it unrecoverable.
 
 **Data Disposal:** The secure and permanent destruction of data that is no longer needed or required to be retained.
@@ -119,9 +113,7 @@
 
 **Digital Asset:** Anything that exists in digital form and holds intrinsic value for an organization, requiring access restrictions.
 
-**Digital Asset Management:** The process of securely storing, protecting, and controlling access to digital assets like images, videos, and documents
-
-**Data Loss Prevention (DLP):** Technologies and practices designed to prevent sensitive data from leaving an organization's control or being accessed by unauthorized individuals.
+**Digital Asset Management:** The process of securely storing, protecting, and controlling access to digital assets like images, videos, and documents.
 
 **Digital Rights Management (DRM):** Technologies and strategies used to protect the copyright of digital content by controlling access, usage, and distribution.
 
@@ -191,7 +183,7 @@
 
 **Privacy policy:** A document outlining an organization's practices for collecting, using, sharing, and protecting personal data.
 
-**Purging:** A data destruction method that uses multiple passes to overwrite media, making data recovery extremely difficult.
+**Purging:** A data destruction method that renders data infeasible to recover even with state-of-the-art laboratory techniques (using degaussing, cryptographic erasure, or drive-level Block/Crypto Erase commands)
 
 **Records Management:** The systematic control of the creation, receipt, maintenance, use, and disposal of records, including identifying which records need to be preserved for how long.
 
