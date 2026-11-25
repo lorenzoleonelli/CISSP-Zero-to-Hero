@@ -1,6 +1,8 @@
 
 **Access control:** Security measures that limit who can access specific systems, applications, or data. This includes authentication, authorization, and accounting (AAA).
 
+**Anonymization:** The irreversible removal or alteration of personal identifiers so that an individual can no longer be identified directly or indirectly, placing the data outside the scope of privacy laws like GDPR.
+
 **Asset:** Any resource, tangible or intangible, that has value to an organization including hardware, software, data, and personnel.
 
 **Asset Classification:** The process of categorizing assets based on their sensitivity, criticality, and value to the organization.
@@ -45,11 +47,17 @@
 
 **Control Value:** A specific parameter or setting of a security control. For example, the password length requirement or the number of login attempts allowed.
 
+**Controlled Unclassified Information (CUI):** Government-created or possessed information that requires safeguarding or dissemination controls pursuant to laws, regulations, or government-wide policies, even though it is not classified as national security information.
+
 **Criticality:** The importance of an asset to the organization's operations.
+
+**Cryptographic Erasure (Crypto-Shredding):** A sanitization method (categorized as Purging under NIST SP 800-88) that renders encrypted data unrecoverable by permanently destroying the cryptographic keys used to decrypt it—especially effective for SSDs and multi-tenant cloud storage.
 
 **CSF:** Cybersecurity Framework, a set of voluntary cybersecurity standards, guidelines, and best practices created to help organizations manage cybersecurity risk.
 
 **Data at Rest:** Data stored on physical media, such as hard drives, SSDs, or backup tapes.
+
+**Data Creep:** The uncontrolled accumulation of data over time without proper oversight, classification, or retention enforcement, leading to storage bloat, governance complexity, and increased breach exposure.
 
 **Data in Transit:** Data that is being transmitted over a network, either internally or externally.
 
@@ -87,6 +95,8 @@
 
 **Data Normalization:** The process of organizing data into a consistent format to eliminate redundancy and improve data integrity.
 
+**Data Poisoning:** An adversarial attack against AI/ML systems in which corrupted or manipulated samples are injected into a training dataset to introduce backdoors, bias, or targeted misclassifications.
+
 **Data Processor:** An entity that processes personal data on behalf of the data controller.
 
 **Data Remanence:** Residual data that persists on storage media even after deletion or formatting.
@@ -110,6 +120,8 @@
 **Decommissioning:** The process of securely removing data and disabling assets before disposal to prevent unauthorized access or recovery.
 
 **Degaussing:** A data destruction method using a strong magnetic field to erase data stored on magnetic media like hard drives and tapes.
+
+**Differential Privacy:** A privacy-enhancing technique that injects calibrated mathematical noise into datasets or query outputs so aggregate patterns can be learned without revealing whether any specific individual's data was included.
 
 **Digital Asset:** Anything that exists in digital form and holds intrinsic value for an organization, requiring access restrictions.
 
@@ -143,9 +155,13 @@
 
 **Handling:** Secure practices for managing and transporting sensitive information to protect it from unauthorized access or disclosure.
 
+**Hardware Security Module (HSM):** A dedicated, tamper-resistant hardware device or cloud service that securely generates, stores, and performs cryptographic operations using sensitive keys within a protected physical boundary.
+
 **Homomorphic encryption:** A type of encryption that allows computations to be performed on encrypted data without decrypting it, preserving data confidentiality while enabling processing.
 
 **HIPAA (Health Insurance Portability and Accountability Act):** A US federal law that sets standards for protecting sensitive patient health information, including requirements for data destruction and disposal.
+
+**Information Rights Management (IRM):** A subset of DRM focused on protecting sensitive corporate documents and emails by enforcing persistent usage controls (such as view-only, no print, no forward, and expiration) wherever the file travels.
 
 **ISO:** International Organization for Standardization, an independent, non-governmental international organization that develops and publishes international standards.
 
@@ -155,17 +171,23 @@
 
 **IT Governance:** The framework for managing and controlling IT resources to align with business goals.
 
+**Key Management System (KMS):** A centralized platform for managing the full lifecycle of cryptographic keys—including generation, distribution, storage, rotation, revocation, and decommissioning.
+
 **Legal Hold:** A legal process that suspends the normal destruction of electronic data when litigation is anticipated.
 
 **Link encryption:** Data encryption that occurs at each point in a network path, protecting data as it travels between network devices.
 
 **Jurisdiction:** The geographical area where a particular law or regulation applies.
 
+**Machine Unlearning:** An AI governance technique aimed at removing the statistical influence of specific training data points from a pre-trained machine-learning model without retraining the entire model from scratch.
+
 **Man-in-the-middle (MitM) attack:** An attack where an attacker intercepts communication between two parties, potentially eavesdropping or manipulating the data exchange.
 
 **Marking and Labeling:** Applying visual identifiers to assets to indicate their sensitivity and handling requirements.
 
 **Metadata:** Data that provides information about other data, such as file creation date, author, and file size.
+
+**Nonpublic Personal Information (NPI):** Personally identifiable financial information collected by a financial institution from a consumer that is not publicly available, regulated under laws such as GLBA.
 
 **NIST:** National Institute of Standards and Technology, a U.S. government agency that develops and promotes technology, measurement, and standards.
 
@@ -175,6 +197,8 @@
 
 **PCI DSS:** Payment Card Industry Data Security Standard, a set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.
 
+**Perfect Forward Secrecy (PFS):** A cryptographic property of key-agreement protocols (such as ECDHE) ensuring that session keys are ephemeral and cannot be compromised even if the server's long-term private key is exposed in the future.
+
 **Personally Identifiable Information (PII):** Data that can be used to identify an individual, such as name, address, social security number, or financial information.
 
 **Physical destruction:** Methods like shredding, crushing, or incinerating storage media to physically eliminate data beyond recovery.
@@ -182,6 +206,10 @@
 **Privacy by design:** Integrating privacy considerations into the design and development of systems and processes from the outset.
 
 **Privacy policy:** A document outlining an organization's practices for collecting, using, sharing, and protecting personal data.
+
+**Protected Health Information (PHI):** Individually identifiable health information transmitted or maintained in any form or medium relating to an individual's physical or mental health, healthcare provision, or payment, regulated under HIPAA.
+
+**Pseudonymization:** A de-identification method that replaces direct identifiers with a reversible alias or key; unlike anonymization, pseudonymized data can still be re-identified with additional information and remains regulated personal data under GDPR.
 
 **Purging:** A data destruction method that renders data infeasible to recover even with state-of-the-art laboratory techniques (using degaussing, cryptographic erasure, or drive-level Block/Crypto Erase commands)
 
@@ -230,6 +258,8 @@
 **Tiered Classification:** A system of classifying assets into levels based on their sensitivity and criticality, with each tier requiring a different level of security control.
 
 **Transport Layer Security (TLS):** A cryptographic protocol that secures communication over a network, primarily used for web traffic (HTTPS).
+
+**Trusted Execution Environment (TEE):** A hardware-isolated, encrypted memory enclave within a CPU (e.g., Intel SGX, AMD SEV) that protects data in use by preventing the host OS, hypervisor, or administrators from inspecting active computations.
 
 **Trusted Platform Module (TPM):** A hardware chip on a device that provides cryptographic functions and secure storage of keys. It can be used for full-disk encryption and platform authentication.
 

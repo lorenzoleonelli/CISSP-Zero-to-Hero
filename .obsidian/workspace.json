@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Data loss prevention\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "title": "2.1 Identify and classify information and assets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +225,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "4f7371432092b349",
+  "active": "44e57a75713881b5",
   "lastOpenFiles": [
     "DOMAIN2 - Asset Security/2.L.1 Media Sanitization, Crypto-Shredding & Legal Hold Lab.md",
     "DOMAIN2 - Asset Security/2.D.3 Digital Rights Management.md",
