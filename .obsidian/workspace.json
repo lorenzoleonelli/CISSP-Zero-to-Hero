@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
+                "file": "DOMAIN2 - Asset Security/2.Q.1 Easy Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6 Determine data security controls and compliance requirements"
+              "title": "2.Q.1 Easy Questions"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ITIL",
+                "query": "There are primarely two technical controls",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,6 +227,8 @@
   },
   "active": "2429fc5219c2396b",
   "lastOpenFiles": [
+    "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
+    "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
@@ -251,8 +253,6 @@
     "DOMAIN1 - Security Governance and Risk Management/1.Q.2 Hard Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.1 Easy Questions.md",
     "SUMMARY.md",
-    "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
-    "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
     "Images/Data_loss_leak_breach.png",
