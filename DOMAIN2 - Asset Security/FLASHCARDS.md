@@ -35,9 +35,9 @@
 
 <details> <summary>Show answer</summary> Higher classification levels often require stricter retention and disposal policies. </details>
 
-10. What are the five stages of the data lifecycle?
+10. What are the six stages of the data lifecycle?
 
-<details> <summary>Show answer</summary> Creation, storage, usage, sharing, and disposal. </details>
+<details> <summary>Show answer</summary> Creation, storage, usage, sharing, archive and disposal. </details>
 
 11. What is data at rest?
 
@@ -65,7 +65,7 @@
 
 17. How can organizations prevent unauthorized data access during disposal?
 
-<details> <summary>Show answer</summary> Secure deletion, shredding, or degaussing. </details>
+<details> <summary>Show answer</summary> Sanitization (clearing, purging, or cryptographic erasure), shredding, or degaussing. </details>
 
 18. What is the purpose of a data retention policy?
 
@@ -198,3 +198,83 @@
 50. A system of classifying assets into levels based on their sensitivity and criticality, with each tier requiring a different level of security control.
 
 <details> <summary>Show answer</summary> Tiered Classification </details>
+
+51. What is the difference between a Data Controller and a Data Processor under GDPR?
+
+<details> <summary>Show answer</summary> The **Data Controller** determines *why* and *how* personal data is processed. The **Data Processor** processes personal data strictly on behalf of and under the instructions of the Controller. </details>
+
+52. How does data categorization differ from data classification?
+
+<details> <summary>Show answer</summary> **Categorization** groups data by content, purpose, or type (e.g., PII, PHI, financial records) for management; **Classification** assigns a sensitivity tier (e.g., Confidential, Public) based on the impact of compromise. </details>
+
+53. What is the difference between automated labeling and visual marking?
+
+<details> <summary>Show answer</summary> **Labeling** embeds machine-readable metadata so systems like DLP can enforce rules automatically; **Marking** places human-readable headers, footers, or physical stickers to alert users. </details>
+
+54. Which classification level should be applied to a server or storage medium holding multiple datasets of different sensitivity levels?
+
+<details> <summary>Show answer</summary> Always classify and protect the asset according to the **highest classification level** of the data it contains. </details>
+
+55. What is Controlled Unclassified Information (CUI)?
+
+<details> <summary>Show answer</summary> Sensitive government information that does not meet national security classification criteria (Confidential/Secret/Top Secret) but still requires mandatory safeguarding under law or policy. </details>
+
+56. What are the three sanitization categories defined in NIST SP 800-88?
+
+<details> <summary>Show answer</summary> **Clear** (protects against keyboard/software recovery; media reusable), **Purge** (protects against laboratory recovery; media reusable), and **Destroy** (physically destroys media so reuse is impossible). </details>
+
+57. Why is degaussing ineffective on Solid-State Drives (SSDs), and what should be used instead?
+
+<details> <summary>Show answer</summary> SSDs store data using electrical charges in NAND flash rather than magnetic fields. Use **Cryptographic Erasure (Crypto-Shredding)**, NVMe/vendor **Block Erase**, or **physical disintegration/shredding** instead. </details>
+
+58. What is Cryptographic Erasure (Crypto-Shredding)?
+
+<details> <summary>Show answer</summary> A Purge sanitization technique that renders encrypted data permanently unrecoverable by destroying the cryptographic keys used to decrypt it—ideal for SSDs and multi-tenant cloud storage. </details>
+
+59. What happens when a Legal Hold (Litigation Hold) conflicts with an automated data retention destruction schedule?
+
+<details> <summary>Show answer</summary> The **Legal Hold always overrides** the retention schedule; automated deletion must be suspended immediately to prevent spoliation of evidence. </details>
+
+60. What are the eight stages of the Electronic Discovery Reference Model (EDRM) in order?
+
+<details> <summary>Show answer</summary> Identification $\rightarrow$ Preservation $\rightarrow$ Collection $\rightarrow$ Processing $\rightarrow$ Review $\rightarrow$ Analysis $\rightarrow$ Production $\rightarrow$ Presentation. </details>
+
+61. What is slack space, and why is it a security concern?
+
+<details> <summary>Show answer</summary> The unused space remaining inside an allocated disk cluster after a file is written; it can retain fragments of previously deleted files or memory contents (data remanence). </details>
+
+62. What is the difference between Data Localization (Residency) and Data Sovereignty?
+
+<details> <summary>Show answer</summary> **Data Localization** mandates storing/processing data physically within a country's borders; **Data Sovereignty** means data is subject to the laws of the nation where it is collected or governs citizens, regardless of storage location. </details>
+
+63. Under GDPR, how does pseudonymized data differ from anonymized data?
+
+<details> <summary>Show answer</summary> **Pseudonymized** data can still be re-identified using a separate key/table and remains regulated personal data; **Anonymized** data is irreversibly stripped of identifiers and falls outside GDPR. </details>
+
+64. How does Tokenization reduce PCI DSS compliance scope compared to Encryption?
+
+<details> <summary>Show answer</summary> Tokenization replaces the real card number (FPAN) with a mathematically unrelated random token (DPAN) mapped in a secure Token Vault, removing downstream merchant systems from cardholder data scope. </details>
+
+65. Which technology protects Data in Use inside CPU memory?
+
+<details> <summary>Show answer</summary> **Trusted Execution Environments (TEEs)** / Confidential Computing (hardware-encrypted memory enclaves) and emerging **Homomorphic Encryption**. </details>
+
+66. What are the three deployment architectures for a Cloud Access Security Broker (CASB)?
+
+<details> <summary>Show answer</summary> **Forward Proxy** (inline between users and cloud), **Reverse Proxy** (inline in front of cloud apps), and **API-based** (out-of-band direct integration with cloud service APIs). </details>
+
+67. What is the difference between Scoping and Tailoring when applying a security control baseline?
+
+<details> <summary>Show answer</summary> **Scoping** removes non-applicable controls from a baseline with documented justification; **Tailoring** customizes applicable controls (adjusting parameters or adding compensating controls) to fit the environment. </details>
+
+68. What is the difference between End-of-Life (EOL) and End-of-Support (EOS)?
+
+<details> <summary>Show answer</summary> **EOL** means the vendor stops selling/producing the product; **EOS** means the vendor stops providing security patches and technical support. </details>
+
+69. What is Data Poisoning in AI security, and how is it mitigated?
+
+<details> <summary>Show answer</summary> Injecting manipulated data into an AI training set to corrupt model behavior or insert backdoors; mitigated via strict **data provenance**, access controls, and cryptographic hashing of datasets. </details>
+
+70. What is Differential Privacy, and how does it protect AI training datasets?
+
+<details> <summary>Show answer</summary> Adding calibrated mathematical noise to datasets or query outputs so an AI model learns aggregate trends without memorizing or leaking any specific individual's personal data. </details>
