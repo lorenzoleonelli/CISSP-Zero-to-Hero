@@ -47,7 +47,6 @@
 - [FLASHCARDS](DOMAIN1%20-%20Security%20Governance%20and%20Risk%20Management/FLASHCARDS.md)
 
 ---
-
 ## Domain 2: Asset Security ##
 
 - [2.1 Identify and classify information and assets](DOMAIN2%20-%20Asset%20Security/2.1%20Identify%20and%20classify%20information%20and%20assets.md)

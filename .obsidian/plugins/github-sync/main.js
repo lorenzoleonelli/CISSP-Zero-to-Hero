@@ -4683,11 +4683,36 @@ var DEFAULT_SETTINGS = {
   gitLocation: "",
   syncinterval: 0,
   isSyncOnLoad: false,
-  checkStatusOnLoad: true
+  checkStatusOnLoad: true,
+  noticeLevel: "ALL",
+  showSyncSuccessNotice: true
 };
 var GHSyncPlugin = class extends import_obsidian.Plugin {
+  shouldShowNotice(severity) {
+    switch (this.settings.noticeLevel) {
+      case "ERROR":
+        return severity === "ERROR";
+      case "WARNING":
+        return severity === "WARNING" || severity === "ERROR";
+      case "ALL":
+      default:
+        return true;
+    }
+  }
+  showNotice(message, severity, timeout) {
+    if (!this.shouldShowNotice(severity)) {
+      return;
+    }
+    const text = message instanceof Error ? message.message : String(message);
+    new import_obsidian.Notice(text, timeout);
+  }
+  showSyncSuccessNotice() {
+    if (!this.settings.showSyncSuccessNotice) {
+      return;
+    }
+    this.showNotice("github sync successful", "INFO");
+  }
   async SyncNotes() {
-    new import_obsidian.Notice("Syncing to GitHub remote");
     const remote = this.settings.remoteURL.trim();
     simpleGitOptions = {
       //@ts-ignore
@@ -4700,9 +4725,12 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
     let os = require("os");
     let hostname = os.hostname();
     let statusResult = await git.status().catch((e) => {
-      new import_obsidian.Notice("Vault is not a Git repo or git binary cannot be found.", 1e4);
+      this.showNotice("Vault is not a Git repo or git binary cannot be found.", "ERROR", 1e4);
       return;
     });
+    if (!statusResult) {
+      return;
+    }
     let clean = statusResult.isClean();
     let date = new Date();
     let msg = hostname + " " + date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + ":" + date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds();
@@ -4710,47 +4738,44 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
       try {
         await git.add("./*").commit(msg);
       } catch (e) {
-        new import_obsidian.Notice(e);
+        this.showNotice(e, "ERROR", 1e4);
         return;
       }
-    } else {
-      new import_obsidian.Notice("Working branch clean");
     }
     try {
       await git.removeRemote("origin").catch((e) => {
-        new import_obsidian.Notice(e);
+        this.showNotice(e, "ERROR", 1e4);
       });
       await git.addRemote("origin", remote).catch((e) => {
-        new import_obsidian.Notice(e);
+        this.showNotice(e, "ERROR", 1e4);
       });
     } catch (e) {
-      new import_obsidian.Notice(e);
+      this.showNotice(e, "ERROR", 1e4);
       return;
     }
     try {
       await git.fetch();
     } catch (e) {
-      new import_obsidian.Notice(e + "\nGitHub Sync: Invalid remote URL.", 1e4);
+      this.showNotice(String(e) + "\nGitHub Sync: Invalid remote URL.", "ERROR", 1e4);
       return;
     }
-    new import_obsidian.Notice("GitHub Sync: Successfully set remote origin url");
     try {
       await git.pull("origin", "main", { "--no-rebase": null }, (err, update) => {
-        if (update) {
-          new import_obsidian.Notice("GitHub Sync: Pulled " + update.summary.changes + " changes");
-        }
       });
     } catch (e) {
-      let conflictStatus = await git.status().catch((e2) => {
-        new import_obsidian.Notice(e2, 1e4);
+      let conflictStatus = await git.status().catch((error) => {
+        this.showNotice(error, "ERROR", 1e4);
         return;
       });
+      if (!conflictStatus) {
+        return;
+      }
       let conflictMsg = "Merge conflicts in:";
       for (let c of conflictStatus.conflicted) {
         conflictMsg += "\n	" + c;
       }
       conflictMsg += "\nResolve them or click sync button again to push with unresolved conflicts.";
-      new import_obsidian.Notice(conflictMsg);
+      this.showNotice(conflictMsg, "WARNING");
       for (let c of conflictStatus.conflicted) {
         this.app.workspace.openLinkText("", c, true);
       }
@@ -4758,12 +4783,13 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
     }
     if (!clean) {
       try {
-        git.push("origin", "main", ["-u"]);
-        new import_obsidian.Notice("GitHub Sync: Pushed on " + msg);
+        await git.push("origin", "main", ["-u"]);
       } catch (e) {
-        new import_obsidian.Notice(e, 1e4);
+        this.showNotice(e, "ERROR", 1e4);
+        return;
       }
     }
+    this.showSyncSuccessNotice();
   }
   async CheckStatusOnStart() {
     try {
@@ -4781,10 +4807,10 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
         if (this.settings.isSyncOnLoad == true) {
           this.SyncNotes();
         } else {
-          new import_obsidian.Notice("GitHub Sync: " + statusUponOpening.behind + " commits behind remote.\nClick the GitHub ribbon icon to sync.");
+          this.showNotice("GitHub Sync: " + statusUponOpening.behind + " commits behind remote.\nClick the GitHub ribbon icon to sync.", "WARNING");
         }
       } else {
-        new import_obsidian.Notice("GitHub Sync: up to date with remote.");
+        this.showNotice("GitHub Sync: up to date with remote.", "INFO");
       }
     } catch (e) {
     }
@@ -4810,7 +4836,7 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
           (0, import_set_interval_async.setIntervalAsync)(async () => {
             await this.SyncNotes();
           }, interval * 60 * 1e3);
-          new import_obsidian.Notice("Auto sync enabled");
+          this.showNotice("Auto sync enabled", "INFO");
         } catch (e) {
         }
       }
@@ -4823,6 +4849,9 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
   }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    if (this.settings.noticeLevel === "WARNINGS") {
+      this.settings.noticeLevel = "WARNING";
+    }
   }
   async saveSettings() {
     await this.saveData(this.settings);
@@ -4852,6 +4881,14 @@ var GHSyncSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.settings.gitLocation = value;
       await this.plugin.saveSettings();
     }).inputEl.addClass("my-plugin-setting-text2"));
+    new import_obsidian.Setting(containerEl).setName("Notice level").setDesc("Choose which GitHub Sync notices are shown in the Obsidian UI.").addDropdown((dropdown) => dropdown.addOption("ALL", "ALL").addOption("WARNING", "WARNING").addOption("ERROR", "ERROR").setValue(this.plugin.settings.noticeLevel).onChange(async (value) => {
+      this.plugin.settings.noticeLevel = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setName("Hide Success Message").setDesc("Hide the single success notice shown when a sync finishes successfully.").addToggle((toggle) => toggle.setValue(!this.plugin.settings.showSyncSuccessNotice).onChange(async (value) => {
+      this.plugin.settings.showSyncSuccessNotice = !value;
+      await this.plugin.saveSettings();
+    }));
     new import_obsidian.Setting(containerEl).setName("Check status on startup").setDesc("Check to see if you are behind remote when you start Obsidian.").addToggle((toggle) => toggle.setValue(this.plugin.settings.checkStatusOnLoad).onChange(async (value) => {
       this.plugin.settings.checkStatusOnLoad = value;
       await this.plugin.saveSettings();
