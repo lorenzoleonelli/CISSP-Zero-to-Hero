@@ -174,8 +174,8 @@
               "state": {
                 "file": "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
                 "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "data management"
               },
               "icon": "lucide-list",
               "title": "Struttura"
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,7 +225,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2429fc5219c2396b",
+  "active": "3ff5dfb1820ea746",
   "lastOpenFiles": [
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
     "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
