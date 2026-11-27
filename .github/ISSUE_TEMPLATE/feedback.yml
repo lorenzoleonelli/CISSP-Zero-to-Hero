@@ -1,13 +1,13 @@
 name: Chapter Feedback
-description: Report a typo, suggest an improvement, or ask for clarification on a chapter
+description: Quick feedback on a chapter—pick an option and submit in seconds
 title: "[Feedback] "
 labels: ["reader-feedback"]
 body:
   - type: input
     id: chapter
     attributes:
-      label: Chapter / File
-      description: Automatically filled if you clicked the link at the end of a chapter.
+      label: Chapter
+      description: Pre-filled automatically from the chapter link.
       placeholder: e.g., 2.1 Identify and classify information and assets
     validations:
       required: true
@@ -15,21 +15,30 @@ body:
   - type: dropdown
     id: category
     attributes:
-      label: Feedback Type
+      label: What kind of feedback is this?
       options:
-        - Typo / Formatting error
-        - Unclear explanation / Needs better example
-        - Technical / CISSP concept correction
-        - Missing topic / Suggestion
-        - General praise / Positive feedback
+        - Typo or formatting fix
+        - Unclear explanation or example needed
+        - CISSP concept or exam alignment update
+        - Suggestion or missing topic
+        - Helpful chapter / positive note
     validations:
       required: true
+
+  - type: checkboxes
+    id: quick_checks
+    attributes:
+      label: Quick checks (optional)
+      options:
+        - label: I pasted the exact sentence or heading below
+        - label: This affects exam / managerial judgment clarity
+        - label: Happy for this to be referenced in a future update
 
   - type: textarea
     id: details
     attributes:
-      label: Details
-      description: Paste the relevant sentence or describe your feedback.
-      placeholder: Write your feedback here...
+      label: Extra context (optional)
+      description: Optional—add a sentence, quote, or note if helpful.
+      placeholder: Optional details...
     validations:
-      required: true
+      required: false
