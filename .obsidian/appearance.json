@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "fix-pdf-export"
-  ]
+  ],
+  "showRibbon": true
 }

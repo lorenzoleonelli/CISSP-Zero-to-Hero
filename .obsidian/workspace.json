@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOMAIN1 - Security Governance and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+                "file": "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Understand, adhere to, and promote professional ethics"
+              "title": "2.6 Determine data security controls and compliance requirements"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.8333435058594
+    "width": 200
   },
   "right": {
     "id": "db505af342400a6f",
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOMAIN1 - Security and Risk Management/1.3 Evaluate, apply, and sustain security governance principles.md",
+                "file": "DOMAIN1 - Security Governance and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.3 Evaluate, apply, and sustain security governance principles"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -172,37 +172,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOMAIN1 - Security Governance and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": "data management"
+                "file": "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Struttura"
             }
-          },
-          {
-            "id": "3ff5dfb1820ea746",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view-connections",
-              "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
-            }
-          },
-          {
-            "id": "a4026fc14fb949f7",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,33 +199,34 @@
       "bases:Crea nuova Base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
   "active": "2429fc5219c2396b",
   "lastOpenFiles": [
-    "Senza nome.md",
+    "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
+    "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
+    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
+    "DOMAIN1 - Security Governance and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
+    "DOMAIN7 - Security Operations/7.10 Implement Recovery Strategies.md",
+    "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
+    "DOMAIN1 - Security Governance and Risk Management/1.2 Understand and apply security concepts.md",
+    "Senza nome.md",
     "ISSUE_TEMPLATE/feedback.yml.md",
     "ISSUE_TEMPLATE",
-    "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
-    "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
     "DOMAIN2 - Asset Security/2.3 Provision information and assets securely.md",
-    "DOMAIN2 - Asset Security/2.2 Establish information and asset handling requirements.md",
     "DOMAIN1 - Security Governance and Risk Management/1.12 Establish and maintain a security awareness, education, and training program.md",
     "DOMAIN1 - Security Governance and Risk Management/1.11 Apply supply chain risk management (SCRM) concepts.md",
     "DOMAIN1 - Security Governance and Risk Management/1.10 Understand and apply threat modeling concepts and methodologies.md",
-    "DOMAIN2 - Asset Security/2.6 Determine data security controls and compliance requirements.md",
     "DOMAIN1 - Security Governance and Risk Management/1.Q.2 Hard Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.S.1 Scenario 1.html",
     "DOMAIN1 - Security Governance and Risk Management/DICTIONARY.md",
     "SUMMARY.md",
     "DOMAIN1 - Security Governance and Risk Management/D1 1.html",
     "().md",
-    "DOMAIN1 - Security Governance and Risk Management/1.1 Understand, adhere to, and promote professional ethics.md",
     "DOMAIN2 - Asset Security/FLASHCARDS.md",
     "DOMAIN2 - Asset Security/DICTIONARY.md",
     "DOMAIN2 - Asset Security/2.L.1 Media Sanitization, Crypto-Shredding & Legal Hold Lab.md",
@@ -254,8 +235,6 @@
     "DOMAIN2 - Asset Security/2.D.1 Mastering Configuration Management - The Hidden Shield of Your IT Security.md",
     "DOMAIN1 - Security Governance and Risk Management/1.D.1 How Service Owners, Legal Teams, CISOs, and Privacy Officers Can Collaborate Effectively Without Getting Stuck.md",
     "DOMAIN2 - Asset Security/2.Q.1 Easy Questions.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
     "Images/Data_loss_leak_breach.png",
