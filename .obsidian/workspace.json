@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
+                "file": "Senza nome.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "data management"
@@ -225,10 +224,11 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2429fc5219c2396b",
+  "active": "44e57a75713881b5",
   "lastOpenFiles": [
-    "ISSUE_TEMPLATE/feedback.yml.md",
+    "Senza nome.md",
     "DOMAIN2 - Asset Security/2.1 Identify and classify information and assets.md",
+    "ISSUE_TEMPLATE/feedback.yml.md",
     "ISSUE_TEMPLATE",
     "DOMAIN2 - Asset Security/2.5 Ensure appropriate asset retention.md",
     "DOMAIN2 - Asset Security/2.4 Manage Data Lifecycle.md",
@@ -255,7 +255,6 @@
     "DOMAIN2 - Asset Security/2.Q.1 Easy Questions.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.2 Risk Matrix and Risk Register.md",
     "DOMAIN1 - Security Governance and Risk Management/1.L.1 Github as a learning tool.md",
-    "DOMAIN1 - Security Governance and Risk Management/1.D.5 Service Level Agreement (SLA).md",
     "Images/ChatGPT Image Feb 6, 2026, 10_52_51 PM.png",
     "Images/ChatGPT Image Feb 6, 2026, 10_58_05 PM.png",
     "Images/Data_loss_leak_breach.png",
